@@ -6,7 +6,7 @@ sponsors: # Used for Sponsors
     url: https://sciencegateways.org/
     logo: /assets/imgs/logos/sfu-BigData-logo.png
     grant:
-      - awardagenency: National Science Foundation
+      - awardagency: National Science Foundation
         logo: /assets/imgs/logos/NSB-NSF.png 
         url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231406
         description: >
