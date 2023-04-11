@@ -1,0 +1,26 @@
+sponsors: # Used for Sponsors
+  - name: ADMI23 Symposium 
+    url: https://admiusa.org/admi2023/index.php
+    logo: /assets/imgs/logos/sfu-BigData-logo.png
+  - name: "Science Gateways Community Institute | SGX3"
+    url: https://sciencegateways.org/
+    logo: /assets/imgs/logos/sfu-BigData-logo.png
+    grant:
+      - awardagenency: National Science Foundation
+        logo: /assets/imgs/logos/NSB-NSF.png 
+        url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231406
+        description: >
+          The SGCI is funded by the National Science Foundation under award number ACI-1547611. SGX3 is funded by the National Science Foundation under award number 2231406. 
+      
+  - name: Omnibond Systems
+    url: http://omnibond.com/
+    logo: /assets/imgs/logos/sfu-BigData-logo.png
+  - name: Texas Advanced Computing Center
+    url: https://www.tacc.utexas.edu/
+    logo: /assets/imgs/logos/tacc-logo-color.png
+  - name: Amazon Web Services
+    url: https://aws.amazon.com/
+    logo: /assets/imgs/logos/AWS_logo_RGB.png
+  - name: HackHPC.org
+    url: http://hackhpc.org/
+    logo: /assets/imgs/logos/HackHPC-logo.png
