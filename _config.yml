@@ -2,14 +2,14 @@
 # Inital Jekykl Theme "Minimal Resume"  by Mauricio Urraco - Ref: https://github.com/murraco/jekyll-theme-minimal-resume
 # Modified by Je'aime Powell 4/11/23  
 title: HackHPC@ADMI23
-description: This page will serve as the event site for the HackHPC@ADMI23 Hackathon held virtually June 26th - 30th, 2023.
+description: This page will serve as the event site for the HackHPC@ADMI23 Hackathon held virtually June 26th - 29th, 2023.
 baseurl: "/admi23" # the subpath of your site, e.g. /blog
-url: "https://github.com/HackHPC" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://hackhpc.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: HackHPC@ADMI23
 user_description: Increasing understanding by harnessing the resources, skills and knowledge found in the HPC community.
-user_title: "[Virtual] June 26th - 30th, 2023"
+user_title: "[Virtual] June 26th - 29th, 2023"
 email: schack@hackhcp.org
 twitter_username: ccloudhack
 #instagram_username: schack@hackhcp.org
