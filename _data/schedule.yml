@@ -1,0 +1,188 @@
+preevent_schedule:
+# date time format example '2012-01-26T13:51:50.417-04:00' 
+  - date: "2023-06-22T13:30(-04:00)"
+    #session: Morning #Evening
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: Event Overview and Training
+    events: 
+      - name: GitHub/GitHub Pages Training
+        #type: Presentation
+        links:
+          - title: Slide Deck
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+            url: "assets/slides/pre-event_training/GitHub-and-Github-Pages.pdf"
+  
+
+
+
+general_schedule:
+# date time format example '2012-01-26T13:51:50.417-04:00' 
+  - date: "2023-06-26T10:30(-04:00)"
+    session: Morning
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: Hackathon KICK-OFF!!
+    events: 
+      - name: Event Overview
+        #type: Presentation 
+      - name: Team Creation 
+        #type: Presentation
+        #links:
+        #  - title: Slide Deck
+        #    icon: fa-regular fa-file-pdf
+        #    url: "assets/slides/pre-event_training/GitHub-and-Github-Pages.pdf"
+
+  - date: "2023-06-26T15:30(-04:00)"
+    session: Evening #Morning
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: 1st Check-in
+    events: 
+      - name: Team Introductions
+        #type: Presentation 
+        description: >
+          1-Slide/1-Minute with: <br>
+          &nbsp;&nbsp; - Team Name <br>
+          &nbsp;&nbsp; - Team Mentor(s) <br>
+          &nbsp;&nbsp; - Team Members <br>
+          &nbsp;&nbsp; - Team Zoom Virtual Background <br>
+          &nbsp;&nbsp; - Team Theme Song <br>
+  
+  - date: "2023-06-27T10:30(-04:00)"
+    session: Morning
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: Day 2 Morning Check-in
+    events: 
+      - name: Team Goals
+        #type: Presentation 
+        description: >
+          1-Slide/1-Minute with: <br>
+          &nbsp;&nbsp; - Team Name <br>
+          &nbsp;&nbsp; - Target Portal Name<br>
+          &nbsp;&nbsp; - At least three (3) goals the team wants to accomplish
+
+
+
+
+  - date: "2023-06-27T15:30(-04:00)"
+    session: Evening #Morning
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: Day 2 Evening Check-in
+    events: 
+      - name: Team Progress
+        #type: Presentation 
+        description: >
+          1-Slide/1-Minute with: <br>
+          &nbsp;&nbsp; - Team Name <br>
+          &nbsp;&nbsp; - Current Status
+          &nbsp;&nbsp; - At least 3 tasks to be accomplished by morning session
+  
+
+  - date: "2023-06-28T10:30(-04:00)"
+    session: Morning
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: Day 3 Morning Check-in
+    events: 
+      - name: Team Progress
+        #type: Presentation 
+        description: >
+          1-Slide/1-Minute with: <br>
+          &nbsp;&nbsp; - Team Name <br>
+          &nbsp;&nbsp; - Target Portal Name<br>
+          &nbsp;&nbsp; - Current Status <br>
+          &nbsp;&nbsp; - At least 3 tasks to be accomplished by evening session
+
+
+
+  - date: "2023-06-28T15:30(-04:00)"
+    session: Evening #Morning
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: Day 3 Evening Check-in
+    events: 
+      - name: Team Progress
+        #type: Presentation 
+        description: >
+          1-Slide/1-Minute with: <br>
+          &nbsp;&nbsp; - Team Name <br>
+          &nbsp;&nbsp; - Current Status
+
+
+
+  - date: "2023-06-29T13:30(-04:00)"
+    session: Last Session #Evening #Morning
+    length: 02:00
+    timezone: EDT
+    #location: Westin 6th Floor - Chastain F Room 
+    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+    theme: Day 4 Evening Check-in
+    events: 
+      - name: Final Presentations
+        #type: Presentation 
+        description: >
+          Deliverables: <br>
+          &nbsp;&nbsp; - Project GitHub Repository link posted to the #hackhpc-admi23-hackathon channel with:<br>
+          &nbsp;&nbsp; - PDF of Team Poster<br>
+          &nbsp;&nbsp;&nbsp;&nbsp; - Team Members and Mentor(s) Names <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; - Identified issues <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; - Addressed issues and methods/technologies used <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; - Demo Site Link <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; - Demo Site Screen Shots <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; - Future Work/Recomendations <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; - References <br>
+
+          
+      #- name: Team Creation 
+        #type: Presentation
+        #links:
+        #  - title: Slide Deck
+        #    icon: fa-regular fa-file-pdf
+        #    url: "assets/slides/pre-event_training/GitHub-and-Github-Pages.pdf"
+          
+
+
+  
+  

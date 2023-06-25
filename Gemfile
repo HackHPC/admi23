@@ -1,4 +1,5 @@
-source "https://rubygems.org"
-gem 'github-pages'
+# frozen_string_literal: true
 
-gem "webrick", "~> 1.8"
+source "https://rubygems.org"
+gemspec
+
