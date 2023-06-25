@@ -80,9 +80,9 @@
                             <li class="event-topics">
                               {% for link in topic.links %}
                               {% if link.url contains '://' -%}
-                                [ <a href="{{ link.url }}"> <i class="fa-solid fa-link"></i> {{ link.title }} </a> ]
+                                <a href="{{ link.url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"> <i class="fa-solid fa-link"></i> {{ link.title }} </a> 
                               {%- else -%}
-                                [ <a href="{{ link.url | relative_url }}"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a> ]
+                                <a href="{{ link.url | relative_url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a> 
                               {% endif %}
                               {% endfor %}
                             </li>
@@ -175,9 +175,9 @@
                             <li class="event-topics">
                               {% for link in topic.links %}
                               {% if link.url contains '://' -%}
-                                [ <a href="{{ link.url }}"> <i class="fa-solid fa-link"></i> {{ link.title }} </a> ]
+                                [ <a href="{{ link.url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"> <i class="fa-solid fa-link"></i> {{ link.title }} </a> ]
                               {%- else -%}
-                                [ <a href="{{ link.url | relative_url }}"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a> ]
+                                [ <a href="{{ link.url | relative_url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a> ]
                               {% endif %}
                               {% endfor %}
                             </li>
