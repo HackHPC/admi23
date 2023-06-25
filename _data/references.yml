@@ -22,6 +22,47 @@ references:
   url: https://swcarpentry.github.io/git-novice/
 - name: "Google Colab"
   url: https://colab.research.google.com/
+- name: GitHub Tutorial
+  url: https://docs.github.com/en/get-started/quickstart/hello-world
+- name: GitHub Pages
+  url: https://pages.github.com/
+- name: Students guide to GitHub Pages
+  url: https://codeburst.io/how-to-create-and-publish-a-website-a-students-guide-1ffd9fdd6b39
+- name: "GitHub Codespaces ([Note:] Codespaces is available for free for individual use for up to 60 hours a month and comes with simple, pay-as-you-go pricing afterwards. (Last Checked 6/21/23 Ref. https://github.com/features/codespaces)"
+  url: https://github.com/codespaces
+- name: Codespaces Primers and Development Pack
+  url: https://education.github.com/experiences/primer_codespaces
+- name: Codespaces Overview 
+  url: https://docs.github.com/en/codespaces/overview
+- name: Codespace Quickstart
+  url: https://github.com/codespaceshttps://docs.github.com/en/codespaces/getting-started/quickstart
+- name: Shutting down / Stopping Codespaces
+  url: https://docs.github.com/en/codespaces/developing-in-codespaces/stopping-and-starting-a-codespace
+- name: Jekyll Themes
+  url: http://jekyllthemes.org/
+- name: Serving Jekyll site locally
+  url: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+- name: Liquid 
+  url: https://shopify.github.io/liquid/basics/introduction/
+- name: Markdown Github Cheatsheet
+  url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- name: HTML Cheatsheet 
+  url: https://htmlcheatsheet.com/
+- name: CSS Cheatsheet  
+  url: https://htmlcheatsheet.com/css/
+- name: Javascript Cheatsheet
+  url: https://htmlcheatsheet.com/js/
+- name: YAML Tutorial
+  url: https://spacelift.io/blog/yaml
+- name: W3 Font Awesome Brand Icons 
+  url: https://www.w3schools.com/icons/fontawesome_icons_brand.asp
+- name: VS Code Source Code Editor and IDE 
+  url: https://code.visualstudio.com/
+- name: VS Code Intro Videos 
+  url: https://code.visualstudio.com/docs/getstarted/introvideos
+
+
+
 
 datasets:
 - name: HackHPC Datasets
