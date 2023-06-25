@@ -1535,6 +1535,7 @@ div.organizers {
 
 .event .event-right .event-timing {
   background: #fff8ba;
+  border: 2px solid darkgoldenrod;
   display: flex;
   align-items: center;
   justify-content: center;
