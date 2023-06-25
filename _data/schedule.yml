@@ -28,6 +28,7 @@ general_schedule:
     session: Morning
     length: 02:00
     timezone: EDT
+    icsfile: assets/ics_files/HackHPC_ADMI23_Hackathon_Kick-Off.ics
     #location: Westin 6th Floor - Chastain F Room 
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
@@ -48,6 +49,7 @@ general_schedule:
     session: Evening #Morning
     length: 02:00
     timezone: EDT
+    icsfile: assets/ics_files/HackHPC_ADMI23_1st_Checkin-Team_Introductions.ics
     #location: Westin 6th Floor - Chastain F Room 
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
@@ -69,6 +71,7 @@ general_schedule:
     session: Morning
     length: 02:00
     timezone: EDT
+    icsfile: assets/ics_files/HackHPC_ADMI23_Day_2_Morning_Checkin.ics
     #location: Westin 6th Floor - Chastain F Room 
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
@@ -85,12 +88,11 @@ general_schedule:
           &nbsp;&nbsp; - At least three (3) goals the team wants to accomplish
 
 
-
-
   - date: "2023-06-27T15:30(-04:00)"
     session: Evening #Morning
     length: 02:00
     timezone: EDT
+    icsfile: assets/ics_files/HackHPC_ADMI23_Day_2-Afternoon_Checkin.ics
     #location: Westin 6th Floor - Chastain F Room 
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
@@ -106,11 +108,11 @@ general_schedule:
           &nbsp;&nbsp; - Current Status
           &nbsp;&nbsp; - At least 3 tasks to be accomplished by morning session
   
-
   - date: "2023-06-28T10:30(-04:00)"
     session: Morning
     length: 02:00
     timezone: EDT
+    icsfile: assets/ics_files/HackHPC_ADMI23_Day_3_Morning_Checkin.ics
     #location: Westin 6th Floor - Chastain F Room 
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
@@ -127,12 +129,11 @@ general_schedule:
           &nbsp;&nbsp; - Current Status <br>
           &nbsp;&nbsp; - At least 3 tasks to be accomplished by evening session
 
-
-
   - date: "2023-06-28T15:30(-04:00)"
     session: Evening #Morning
     length: 02:00
     timezone: EDT
+    icsfile: assets/ics_files/HackHPC_ADMI23_Day_3-Afternoon_Checkin.ics
     #location: Westin 6th Floor - Chastain F Room 
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
@@ -147,12 +148,11 @@ general_schedule:
           &nbsp;&nbsp; - Team Name <br>
           &nbsp;&nbsp; - Current Status
 
-
-
   - date: "2023-06-29T13:30(-04:00)"
     session: Last Session #Evening #Morning
     length: 02:00
     timezone: EDT
+    icsfile: assets/ics_files/HackHPC_ADMI23_Day_4-Final_Presentations.ics
     #location: Westin 6th Floor - Chastain F Room 
     #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
