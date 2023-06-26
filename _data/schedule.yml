@@ -37,7 +37,12 @@ general_schedule:
     theme: Hackathon KICK-OFF!!
     events: 
       - name: Event Overview
-        #type: Presentation 
+        #type: Presentation
+        links:
+          - title: Slide Deck
+            icon: fa-regular fa-file-pdf
+            url: "assets/slides/Kickoff.pdf"
+            iconcolor: red
       - name: Team Creation 
         #type: Presentation
         #links:
