@@ -11,8 +11,10 @@ categories: session
 
 <table>
     <tr>
-        <td> <img src= "{{ "assets/slides/pitches/orig-admi.png" | relative_url }}" width="70%" > </td>
-        <td> </td>
+        <td> 
+        <h3> Mentor: Alfred Watkins </h3>
+        <a href="{{ "assets/slides/pitches/ADMI-Website-Reimagined.pdf" | relative_url }}" style="color: orangered; border: 1px solid orangered; padding: 10px; border-radius: 8px;"> Pitch Deck </a>
+        <img src= "{{ "assets/slides/pitches/orig-admi.png" | relative_url }}" width="70%" > </td>
     </tr>
 </table>
 
@@ -20,7 +22,10 @@ categories: session
 
 <table>
     <tr>
-        <td> <img src= "{{ "assets/slides/pitches/orig-hackhpc.png" | relative_url }}" width="70%" > </td>
-        <td> </td>
+        <td> 
+        <h3> Mentor: Josselyn Salgado </h3>
+        <a href="{{ "assets/slides/pitches/OHA-Pitch.pdf" | relative_url }}" style="color: orangered; border: 1px solid orangered; padding: 10px; border-radius: 8px;"> Pitch Deck </a>
+        <img src= "{{ "assets/slides/pitches/orig-hackhpc.png" | relative_url }}" width="70%" > </td>
+
     </tr>
 </table>
