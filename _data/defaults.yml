@@ -5,4 +5,5 @@ home:
     Hackathon held virtually June 26th - 29th, 2023.
   banner: "/assets/images/banners/ADMI23-SiteHeader.png" #Size it to 1920x960 or for color ex. "rgba(0, 0, 0, 0.8)"
   bannerimgoverlay: "/assets/images/banners/ADMI23-whiteheader-logo.svg"
+
   dontshowbannertext: "dontshow"

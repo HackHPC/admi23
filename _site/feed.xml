@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-26T13:08:28-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
-</subtitle><author><name>HackHPC</name></author><entry><title type="html">Mentor Portal Pitches</title><link href="http://localhost:4000/admi23/session/2023/06/26/PortalPitches.html" rel="alternate" type="text/html" title="Mentor Portal Pitches" /><published>2023-06-26T00:00:00-05:00</published><updated>2023-06-26T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/26/PortalPitches</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/26/PortalPitches.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content><author><name>HackHPC</name></author><category term="session" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-26T14:10:00-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
+</subtitle><author><name>HackHPC</name></author><entry><title type="html">Mentor Portal Pitches</title><link href="http://localhost:4000/admi23/session/2023/06/26/PortalPitches.html" rel="alternate" type="text/html" title="Mentor Portal Pitches" /><published>2023-06-26T00:00:00-05:00</published><updated>2023-06-26T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/26/PortalPitches</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/26/PortalPitches.html"><![CDATA[<h2 id="portal-pitches">Portal Pitches</h2>
+
+<h1 id="admi-admiusaorg">ADMI <a href="https://admiusa.org">(admiusa.org)</a></h1>
+
+<table>
+    <tr>
+        <td> <img src="/admi23/assets/slides/pitches/orig-admi.png" width="70%" /> </td>
+        <td> </td>
+    </tr>
+</table>
+
+<h1 id="hackhpc-hackhpcorg">HackHPC <a href="http://hackhpc.org">hackhpc.org</a></h1>
+
+<table>
+    <tr>
+        <td> <img src="/admi23/assets/slides/pitches/orig-hackhpc.png" width="70%" /> </td>
+        <td> </td>
+    </tr>
+</table>]]></content><author><name>HackHPC</name></author><category term="session" /><summary type="html"><![CDATA[Portal Pitches]]></summary></entry></feed>

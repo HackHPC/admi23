@@ -13,6 +13,11 @@
 {%- include functions.html func='get_value' -%}
 {% assign subheading = return %}
 
+{%- include functions.html func='log' level='debug' msg='Get image overlay value' -%}
+{% assign name = 'imageoverlay' %}
+{%- include functions.html func='get_value' -%}
+{% assign imageoverlay = return %}
+
 {%- include functions.html func='get_banner' -%}
 
 
@@ -106,8 +111,9 @@
       {%- else -%}
         <div style="background-image: url({{ banner_image }})"> 
           
-          {% if site.data.defaults.home.bannerimgoverlay %}        
-            <img src="{{ site.data.defaults.home.bannerimgoverlay | prepend: site.baseurl }}" style="width: 70%; display: block; margin: auto;"> 
+          {% if imageoverlay != null or imageoverlay != "" %}   
+          
+            <img src="{{ imageoverlay | relative_url }}" style="width: 70%; display: block; margin: auto;"> 
           {% endif %}
 
           </div>
