@@ -1474,7 +1474,7 @@ h2.event-title {
 
 .event .event-left {
   background: #222;
-  min-width: 82px;
+  width: 100px;
   display: flex;
   align-items: center;
   justify-content: center;

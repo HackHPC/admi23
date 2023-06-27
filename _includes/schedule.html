@@ -1,13 +1,13 @@
 
 <h1 class="schedule-title">Event Calendar</h1>
 <p>
-  <a href="{{ "/assets/ics_files/HackHPC-ADMI23-AllSessions.ics" | prepend: site.baseurl }}" style="color: orangered; border: 1px solid orangered; padding: 10px; border-radius: 8px;"> <i class="fas fa-calendar-plus"></i> Download Calendar File with all Event Sessions (ICS)</a>
+  <a href="{{ "/assets/ics_files/HackHPC-ADMI23-AllSessions.ics" | prepend: site.baseurl }}" style="color: orangered; border: 2px solid darkgrey; padding: 10px; border-radius: 8px;"> <i class="fas fa-calendar-plus"></i> Download Calendar File with all Event Sessions (ICS)</a>
 </p>
   <body>
 
     <!-- Before Event Sessions -->
     {% if site.data.schedule.preevent_schedule %}
-    <h2 class="event-title">Pre-Event Training Sessions</h2>
+    <h2 >Pre-Event Training Sessions</h2>
     {% for event in site.data.schedule.preevent_schedule %}
     <div class="event-container">
       <div class="event">
@@ -16,6 +16,9 @@
           <div class="event-date">
             <div class="month">{{ event.date | date: "%a - %b" }}</div>
             <div class="date">{{ event.date | date: "%d" }}</div> 
+            <div class="event-timing">
+              {{ event.date | date: "%I:%M %P %Z" }} {{ event.timezone }}<br><br>
+            </div>
             {% if event.session %}
               {% if event.session == 'Morning' %}  
                 <div class="session"><i class="fa-solid fa-sun" style="color: goldenrod;"></i>  {{ event.session }} Session <i class="fa-solid fa-moon" style="color: azure;"></i></div>
@@ -107,9 +110,7 @@
           </div>
        
 
-          <div class="event-timing">
-            <img src="assets/imgs/time.png" alt="" /> {{ event.date | date: "%I:%M %P %Z" }} {{ event.timezone }}
-          </div>
+         
           <div>
             
           </div>
@@ -134,6 +135,9 @@
           <div class="event-date">
             <div class="month">{{ event.date | date: "%a - %b" }}</div>
             <div class="date">{{ event.date | date: "%d" }}</div> 
+            <div class="event-timing">
+              {{ event.date | date: "%I:%M %P %Z" }} {{ event.timezone }}<br><br>
+            </div>
             {% if event.session %}
               {% if event.session == 'Morning' %}  
                 <div class="session"><i class="fa-solid fa-sun" style="color: goldenrod;"></i>  {{ event.session }} Session </div>
@@ -209,9 +213,7 @@
           </div>
        
 
-          <div class="event-timing">
-            <img src="assets/imgs/time.png" alt="" /> {{ event.date | date: "%I:%M %P %Z" }} {{ event.timezone }}
-          </div>
+       
         </div>
       </div>
 
