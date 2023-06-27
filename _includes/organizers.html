@@ -143,17 +143,22 @@
 
         <div class="event-right">
           
-          {% if organizer.avatar %}
-         
-          <img class="organizers" src="{{ site.baseurl }}/{{ organizer.avatar }}" >
-          
-          {% endif %}
-          <h2> {{ organizer.name }} </h2>
+         <div>
+          <h2 style="margin-bottom: 1px;"> {{ organizer.name }} </h2>
           <a href="{{ organizer.site }}" style="font-size: medium; font-weight: bold;">{{ organizer.affiliation}}</a>
           <strong>{{ organizer.aff }}</strong>  <em>{{ organizer.location }}</em> 
+        </div>
+      
+          <div>
+          {% if organizer.avatar %}
+         
+          <img style="margin: 10px; width: 200px; padding: 0px; float: left;" class="organizers" src="{{ site.baseurl }}/{{ organizer.avatar }}" >
           
-
-          <br> {{ organizer.bio }}  <br>  <br> 
+          {% endif %}
+          <p>
+            <br>
+          {{ organizer.bio }}  </p><br>
+        </div>
 
         </div>
 
