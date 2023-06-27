@@ -32,11 +32,21 @@
 
       </td>
      <td> 
+      
+    <h2> Team Mentors:</h2>
+
+      <ul>
+        {% for member in team.mentor.names %}
+        <li><strong>{{ member }}</strong> -  <br> {{ team.mentor.affiliation[forloop.index0 ] }} <br>
+        </li>
+     {% endfor %}
+      </ul>
     
-    <h2> Team Members: </h2>
+    
+      <h2> Team Members: </h2>
    
     <ul>
-    
+       
         {% for member in team.members.names %}
             <li><strong>{{ member }}</strong> - <em>{{ team.members.major[forloop.index0] }}</em>  <br>{{ team.members.affiliation[forloop.index0 ] }} <br>
             </li>

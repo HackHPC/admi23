@@ -36,9 +36,9 @@ teams:
     icon: {}
     iconcolor: {}
   images:
-    name: {}
-    url: {}
-    imagelink: {}
+    - name: Team Introduction
+      url: "teams/dataminers/team_introduction.pdf"
+      imagelink: "teams/dataminers/team_introduction.png"
 
 
 ##############################################
@@ -73,9 +73,9 @@ teams:
     icon: {}
     iconcolor: {}
   images:
-    name: {}
-    url: {}
-    imagelink: {}
+    - name: Team Introduction
+      url: "teams/codewarriors/team_introduction.pdf"
+      imagelink: "teams/codewarriors/team_introduction.png"
 
 
 ##############################################
@@ -106,18 +106,18 @@ teams:
       'https://www.linkedin.com/in/cierrah-washington-2964b1239/']
     email: [ronny.kiprono@morehouse.edu, sethamack89@gmail.com, Gerrickjones030@gmail.com,
       jad1312004@gmail.com, gaines.yamonta@philander.edu, ciewas1213@gmail.com]
-  themesong: {}
-  themesongname: {}
-  zoombackground: {}
-  projecturl: {}
-  projectgoals: {}
-  emojicode: {}
-  links:
-    name: {}
-    url: {}
-    icon: {}
-    iconcolor: {}
+  #themesong: {}
+  #themesongname: {}
+  #zoombackground: {}
+  #projecturl: {}
+  #projectgoals: {}
+  #emojicode: {}
+  #links:
+  #  - name: {}
+  #    url: {}
+  #    icon: {}
+  #    iconcolor: {}
   images:
-    name: {}
-    url: {}
-    imagelink: {}
+    - name: Team Introduction
+      url: "teams/bugbusters/team_introduction.pdf"
+      imagelink: "teams/bugbusters/team_introduction.png"
