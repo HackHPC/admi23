@@ -1,48 +1,123 @@
 teams:
-  - teamname: Cyborgs
-    #url:  # Full URL
-    image: assets/teams/cyborgs/Cyborgs.jpg # assets/project/
-    #summary: Data De-Sensitizer/Anonymizer
-    #description: >
-    #  Tasks:
-    #    Develop data-cleaning framework,
-    #    Develop system to evaluate data sensitivity (internally comparable and objectively),
-    #    Working proof-of-concept,
-    #emojicode: 🤠
-    #awards:
-    #    - name: "Viewer's Choice Award"
-    members:
-      names: [Oluwatosin Oyekeye, Maya Ody-Ajike, Oluwalayomi Fadero, Oluwanifemi Fadero, Terrance Jim]
-      role: Member
-      affiliation: [Alabama State University, Fisk University, Fisk University, Fisk University, Navajo Technical University]
-      #affinitals: SFU
-      #url: https://www.sfu.ca/
-      major: [Computer Science, Computer Science, Computer Science and Mathametics, Computer Science, IT Technician]
-    links:
-        - name: Team Introduction
-          url: assets/teams/cyborgs/cyborgs_intro.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"
-        - name: Theme Song - Cristale x Teezandos - Plugged In w/ Fumez The Engineer
-          tag: themesong
-          url: https://www.youtube.com/watch?v=QopN26wi708
-          icon: "fab fa-youtube"
-          iconcolor: "#ff0c05"
-        - name: Github Repo
-          url: https://github.com/mayaajike/MS_CC-2023-Hack 
-          icon: "fab fa-github"
-          color: black
-          tag: github 
-        - name: Final Presentation
-          url: assets/teams/cyborgs/CYBORGS.pdf
-          icon: "far fa-file-pdf"
-          iconcolor: "black"  
-    images:
-        - name: Team Introduction
-          imagelink: assets/teams/cyborgs/cyborgs_intro-350px.png
-          url: assets/teams/cyborgs/cyborgs_intro.pdf
-        - name: Final Presentation
-          imagelink: assets/teams/cyborgs/CYBORGS-img.png
-          url: assets/teams/cyborgs/CYBORGS.pdf
+- teamname: The Data Miners
+  mentor:
+    names: [Jullie Salgado, Charlie Dey]
+    affiliation: [SGX3, Texas Advanced Computing Center]
+    affiliationurl: ['https://sciencegateways.org/', 'https://tacc.utexas.edu/']
+    role: [Mentor, Mentor]
+    socials: ['https://www.linkedin.com/in/jullie-salgado-a37a04233/', 'https://www.linkedin.com/in/charlie-dey-0031317a/']
+    email: [jsalgado4818@gmail.com, charlie@tacc.utexas.edu]
+  members:
+    names: [Kolin Higgins, Javid Ibrahimov, Shovkat Zeynalli, DeVon Lewis,
+      'Lenasha Williams ']
+    affiliation: [Jackson State University, Mississippi Valley State University,
+      Mississippi Valley State University, Morehouse College, 'Winston-Salem
+        State University ']
+    affiliationurl: ['https://www.jsums.edu/', 'https://www.mvsu.edu/', 'https://www.mvsu.edu/',
+      'https://morehouse.edu/', 'https://www.wssu.edu/']
+    major: [Computer Science, Computer Science, Computer Science, Computer
+        Science, Computer Science]
+    role: [Hacker / participant, Hacker / participant, Hacker / participant,
+      Hacker / participant, Hacker / participant]
+    socials: ['https://www.linkedin.com/in/kolin-higgins-8a020b255/', 'https://www.linkedin.com/in/javidibrahimov',
+      'https://www.linkedin.com/in/shovkat-zeynalli/', 'https://www.linkedin.com/in/de-von-lewis-084590119/',
+      'https://www.linkedin.com/in/lenasha-williams/']
+    email: [kmatt264@gmail.com, javid.ibrahimov@mvsu.edu, sovkat.zeynalli@mvsu.edu,
+      freshfor01@gmail.com, lenashawilliams1486@gmail.com]
+  themesong: {}
+  themesongname: {}
+  zoombackground: {}
+  projecturl: {}
+  projectgoals: {}
+  emojicode: {}
+  links:
+    name: {}
+    url: {}
+    icon: {}
+    iconcolor: {}
+  images:
+    name: {}
+    url: {}
+    imagelink: {}
 
- 
+
+##############################################
+
+- teamname: CodeWarriors
+  mentor:
+    names: [Alfred Watkins, Jasmine Trapier]
+    affiliation: [Morehouse College, 'Winston-Salem State University ']
+    affiliationurl: ['https://morehouse.edu/', 'https://www.wssu.edu/']
+    role: [Mentor, Staff / helper]
+    socials: ['https://www.linkedin.com/in/alfred-watkins-85890b5/', 'https://www.linkedin.com/in/jasminetrapier/']
+    email: [alfred.watkins@morehouse.edu, jasmine.trapier@gmail.com]
+  members:
+    names: [Anthony Nwafor, Emmanuel Nwokpo, Teniola Oluwaseyitan]
+    affiliation: [Mississippi Valley State University, Mississippi Valley
+        State University, Mississippi Valley State University]
+    affiliationurl: ['https://www.mvsu.edu/', 'https://www.mvsu.edu/', 'https://www.mvsu.edu/']
+    major: [Computer Science, Computer Science, Computer Science]
+    role: [Hacker / participant, Hacker / participant, Hacker / participant]
+    socials: ['https://www.linkedin.com/in/anthony-nwafor-9b8055236/', 'https://www.linkedin.com/in/emmanuel-nwokpo-68b655250 ',
+      'https://www.linkedin.com/in/teniola-oluwaseyitan-3a4622262']
+    email: [anthonynwafor261@gmail.com, chideranwokpo27@gmail.com, teniola.oluwaseyitan@mvsu.edu]
+  themesong: {}
+  themesongname: {}
+  zoombackground: {}
+  projecturl: {}
+  projectgoals: {}
+  emojicode: {}
+  links:
+    name: {}
+    url: {}
+    icon: {}
+    iconcolor: {}
+  images:
+    name: {}
+    url: {}
+    imagelink: {}
+
+
+##############################################
+
+- teamname: Bug Busters
+  mentor:
+    names: [Boyd Wilson, Josselyn Salgado, Emma Bukowski]
+    affiliation: [Omnibond, SGX3, Texas Advanced Computing Center]
+    affiliationurl: ['https://omnibond.com/', 'https://sciencegateways.org/',
+      'https://tacc.utexas.edu/']
+    role: [Mentor, Mentor, Mentor]
+    socials: ['https://www.linkedin.com/in/boydwilson/', 'https://www.linkedin.com/in/josselynsalgado/',
+      'https://www.linkedin.com/in/emma-bukowski-396415252/']
+    email: [boyd@omnibond.com, josselyns45@gmail.com, ebukows@gmail.com]
+  members:
+    names: [Ronny Kiprono, Seth Mack, Gerrick Jones, Justin Davis, Yamonta
+        Gaines, Cierrah Washington]
+    affiliation: [Morehouse College, Morehouse College, Morehouse College,
+      Morehouse College, Philander Smith College, 'Winston-Salem State University ']
+    affiliationurl: ['https://morehouse.edu/', 'https://morehouse.edu/', 'https://morehouse.edu/',
+      'https://morehouse.edu/', 'https://www.philander.edu/', 'https://www.wssu.edu/']
+    major: [Computer Science, Computer Science, Computer Science, Computer
+        Science, .nan, Computer Science]
+    role: [Hacker / participant, Hacker / participant, Hacker / participant,
+      Hacker / participant, Hacker / participant, Hacker / participant]
+    socials: ['https://twitter.com/RonnyKiprono66', 'https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fseth-mack-8b62b5183&h=AT37Mgtwepd8wn3PxyeV4fAFiCZxMqvfLfXMc8hDI9uEnd76Sy8HzhiI3ss1SF1fMNEWjTkgJ-PaUCHsiewxJ0K_S-ZmTcHfmRUEZNBtPCYrGSz_RIhFYExVsiWsz3YRw1ICRKzkQU-EpBR6wQUm&s=1',
+      'https://www.linkedin.com/in/gerrick-jones-289063246/', .nan, .nan,
+      'https://www.linkedin.com/in/cierrah-washington-2964b1239/']
+    email: [ronny.kiprono@morehouse.edu, sethamack89@gmail.com, Gerrickjones030@gmail.com,
+      jad1312004@gmail.com, gaines.yamonta@philander.edu, ciewas1213@gmail.com]
+  themesong: {}
+  themesongname: {}
+  zoombackground: {}
+  projecturl: {}
+  projectgoals: {}
+  emojicode: {}
+  links:
+    name: {}
+    url: {}
+    icon: {}
+    iconcolor: {}
+  images:
+    name: {}
+    url: {}
+    imagelink: {}

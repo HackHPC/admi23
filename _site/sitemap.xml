@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/admi23/session/2023/06/26/CodeofConduct.html</loc>
+<lastmod>2023-06-26T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/admi23/session/2023/06/26/PortalPitches.html</loc>
 <lastmod>2023-06-26T00:00:00-05:00</lastmod>
 </url>
@@ -27,6 +31,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/admi23/tags.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/admi23/teams.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/admi23/assets/slides/Kickoff.pdf</loc>
