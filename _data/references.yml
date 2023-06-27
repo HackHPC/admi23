@@ -72,9 +72,12 @@ references:
   url:  https://www.figma.com/
 - name: 12 Critical Elements Every Website Homepage Must Have
   url: https://blog.hubspot.com/blog/tabid/6307/bid/31097/12-critical-elements-every-homepage-must-have-infographic.aspx
-
-
-
+- name: "Hugo vs. Jekyll: Which is Right for Your Blog?"
+  url: https://draft.dev/learn/hugo-vs-jekyll
+- name: Docsy Hugo Theme
+  url: https://github.com/google/docsy
+- name: Docsy.dev
+  url: https://www.docsy.dev/
 
 datasets:
 - name: HackHPC Datasets
