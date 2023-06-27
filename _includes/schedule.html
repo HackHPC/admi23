@@ -78,13 +78,21 @@
                         <ul>
                       
                             <li class="event-topics">
+                              <p style="padding: 5px;">
                               {% for link in topic.links %}
                               {% if link.url contains '://' -%}
-                                <a href="{{ link.url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"> <i class="fa-solid fa-link"></i> {{ link.title }} </a> 
+                                <a href="{{ link.url }}" style="margin: 5px; color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"> 
+                                  
+                                  {% if link.icon %}
+                                  <i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a>
+                                  {% else %}
+                                  <i class="fa-solid fa-link"></i> {{ link.title }} </a>
+                                  {% endif %}
                               {%- else -%}
-                                <a href="{{ link.url | relative_url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a> 
+                                <a href="{{ link.url | relative_url }}" style="margin: 5px; color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a>
                               {% endif %}
                               {% endfor %}
+                            </p>
                             </li>
           
                      
@@ -173,13 +181,20 @@
                         <ul>
                    
                             <li class="event-topics">
+                              <p style="padding: 5px;">
                               {% for link in topic.links %}
                               {% if link.url contains '://' -%}
-                                <a href="{{ link.url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"> <i class="fa-solid fa-link"></i> {{ link.title }} </a> 
+                                <a href="{{ link.url }}" style="margin: 5px; color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;">
+                                  {% if link.icon %}
+                                  <i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a>
+                                  {% else %}
+                                  <i class="fa-solid fa-link"></i> {{ link.title }} </a>
+                                  {% endif %}
                               {%- else -%}
-                                <a href="{{ link.url | relative_url }}" style="color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a> 
+                                <a href="{{ link.url | relative_url }}" style="margin: 5px; color: grey; border: 1px solid grey; padding: 5px; border-radius: 8px;"><i class="{{ link.icon }}" style="color: {{ link.iconcolor }};"></i> {{ link.title }} </a> 
                               {% endif %}
                               {% endfor %}
+                            </p>
                             </li>
           
                     

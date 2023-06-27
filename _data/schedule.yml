@@ -18,6 +18,10 @@ preevent_schedule:
             icon: fa-regular fa-file-pdf
             iconcolor: red
             url: "assets/slides/pre-event_training/GitHub-and-Github-Pages.pdf"
+          - title: YouTube Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/UzzKBQmiLsU"
   
 
 
@@ -43,6 +47,10 @@ general_schedule:
             icon: fa-regular fa-file-pdf
             url: "assets/slides/Kickoff.pdf"
             iconcolor: red
+          - title: YouTube Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/w1TYSF3z_IY"
       - name: Team Creation 
         #type: Presentation
         #links:
