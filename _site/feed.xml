@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-27T12:37:00-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-27T13:11:39-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
 </subtitle><author><name>HackHPC</name></author><entry><title type="html">Code of Conduct</title><link href="http://localhost:4000/admi23/session/2023/06/26/CodeofConduct.html" rel="alternate" type="text/html" title="Code of Conduct" /><published>2023-06-26T00:00:00-05:00</published><updated>2023-06-26T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/26/CodeofConduct</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/26/CodeofConduct.html"><![CDATA[<p><br /> 
 All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.</p>
 
@@ -60,9 +60,13 @@ All attendees, sponsors, partners, volunteers and staff at our hackathon are req
 <table>
     <tr>
         <td> 
-        <h3> Mentor: Alfred Watkins </h3>
-        <a href="/admi23/assets/slides/pitches/ADMI-Website-Reimagined.pdf" style="color: orangered; border: 1px solid orangered; padding: 10px; border-radius: 8px;"> Pitch Deck </a>
-        <img src="/admi23/assets/slides/pitches/orig-admi.png" width="70%" /> </td>
+        <h3> Mentor: Alfred Watkins <a href="mailto:alfred.watkins@morehouse.edu"><i style="color: darkgrey;" class="fas fa-envelope"></i></a>&nbsp;<a href="https://www.linkedin.com/in/alfred-watkins-85890b5/"><i style="color: darkblue;" class="fab fa-linkedin"></i></a></h3>
+        <h1>Affiliation: <a href="https://morehouse.edu/">Morehouse College</a></h1>
+         <a href="https://admiusa.org"> <img style="float: right" src="/admi23/assets/slides/pitches/orig-admi.png" width="70%" /> </a>
+        <a href="/admi23/assets/slides/pitches/ADMI-Website-Reimagined.pdf" style="margin: 15px;  color: orangered; border: 1px solid orangered; padding: 10px; border-radius: 8px;"> Pitch Deck </a>
+        <br /><br />
+        <a href="https://youtu.be/w1TYSF3z_IY?t=2301" style="margin: 15px; color: darkgrey; border: 1px solid darkgrey; padding: 10px; border-radius: 8px;"> <i style="color: red;" class="fab fa-youtube"></i> Pitch Video </a>
+         </td>
     </tr>
 </table>
 
@@ -71,9 +75,19 @@ All attendees, sponsors, partners, volunteers and staff at our hackathon are req
 <table>
     <tr>
         <td> 
-        <h3> Mentor: Josselyn Salgado </h3>
-        <a href="/admi23/assets/slides/pitches/OHA-Pitch.pdf" style="color: orangered; border: 1px solid orangered; padding: 10px; border-radius: 8px;"> Pitch Deck </a>
-        <img src="/admi23/assets/slides/pitches/orig-hackhpc.png" width="70%" /> </td>
+        
+        <h3> Mentor: Josselyn Salgado <a href="mailto:josselyns45@gmail.com"><i style="color: darkgrey;" class="fas fa-envelope"></i></a>&nbsp;<a href="https://www.linkedin.com/in/josselynsalgado"><i style="color: darkblue;" class="fab fa-linkedin"></i></a></h3>
+
+       
+
+        <h1>Affiliation: <a href="https://sciencegateways.org/">SGCI/SGX3</a></h1>
+
+         <a href="http://hackhpc.org"> <img style="float: right;" src="/admi23/assets/slides/pitches/orig-hackhpc.png" width="70%" /> </a> 
+        <a href="/admi23/assets/slides/pitches/OHA-Pitch.pdf" style="margin: 15px; color: orangered; border: 1px solid orangered; padding: 10px; border-radius: 8px;"> Pitch Deck </a>
+        <br /><br />
+        <a href="https://youtu.be/w1TYSF3z_IY?t=1930" style="margin: 15px; color: darkgrey; border: 1px solid darkgrey; padding: 10px; border-radius: 8px;"> <i style="color: red;" class="fab fa-youtube"></i> Pitch Video </a>
+        
+        </td>
 
     </tr>
 </table>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="presentation" /><summary type="html"><![CDATA[ADMI (admiusa.org)]]></summary></entry></feed>
