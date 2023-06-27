@@ -129,13 +129,22 @@ general_schedule:
     zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
     theme: Day 2 Evening Check-in
     events: 
-      - name: Team Progress
+      - name: Team Resources
         #type: Presentation 
         description: >
           1-Slide/1-Minute with: <br>
           &nbsp;&nbsp; - Team Name <br>
-          &nbsp;&nbsp; - Current Status
-          &nbsp;&nbsp; - At least 3 tasks to be accomplished by morning session
+          &nbsp;&nbsp; - At least 5 Resources/Tools the team will use.
+        links:
+          - title: Google Slides Deck
+            icon: "fab fa-google-drive" #fa-regular fa-file-pdf 
+            url: "https://docs.google.com/presentation/d/1HaU8LJLra-AZ6ewPbKfiL5Sao4LHQVUIXPwKDbBIOZ4/edit?usp=sharing"
+            iconcolor: black
+          - title: Slides Deck
+            icon: fa-regular fa-file-pdf 
+            url: "assets/slides/TeamGoalsandResources.pdf"
+            iconcolor: red
+
   
   - date: "2023-06-28T10:30(-04:00)"
     session: Morning
