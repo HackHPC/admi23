@@ -71,6 +71,13 @@ general_schedule:
           &nbsp;&nbsp; - Team Members <br>
           &nbsp;&nbsp; - Team Zoom Virtual Background <br>
           &nbsp;&nbsp; - Team Theme Song <br>
+        links:
+          - title: Slide Deck
+            icon: fa-regular fa-file-pdf
+            url: "assets/slides/Team Introductions.pdf"
+            iconcolor: red
+
+          
   
   - date: "2023-06-27T10:30(-04:00)"
     session: Morning
