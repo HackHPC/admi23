@@ -111,7 +111,7 @@
       {%- else -%}
         <div style="background-image: url({{ banner_image }})"> 
           
-          {% if imageoverlay != null or imageoverlay != "" %}   
+          {% if imageoverlay != null and imageoverlay != "" %}   
           
             <img src="{{ imageoverlay | relative_url }}" style="width: 70%; display: block; margin: auto;"> 
           {% endif %}
@@ -134,7 +134,7 @@
 
           <div class="page-banner-default">
             <h1 class="page-banner-heading">
-              {% if site.data.defaults.home.dontshowbannertext %}
+              {% if imageoverlay != null and imageoverlay != "" %}
               
               {% else %}
                  {{ heading | default: page.title | escape }}

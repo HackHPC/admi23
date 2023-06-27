@@ -1,26 +1,35 @@
 sponsors: # Used for Sponsors
   - name: ADMI23 Symposium 
     url: https://admiusa.org/admi2023/index.php
-    logo: /assets/imgs/logos/sfu-BigData-logo.png
-  - name: "Science Gateways Community Institute | SGX3"
+    logo: /assets/imgs/logos/ADMI23-logo.svg
+  - name: "Science Gateways Community Institute"
     url: https://sciencegateways.org/
-    logo: /assets/imgs/logos/sfu-BigData-logo.png
+    logo: /assets/imgs/logos/sgci-logo.svg
     grant:
       - awardagency: National Science Foundation
-        logo: /assets/imgs/logos/NSB-NSF.png 
+        logo: /assets/imgs/logos/NSF.svg
+        url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547611
+        description: >
+          The SGCI is funded by the National Science Foundation under award number ACI-1547611.
+  - name: "SGX3"
+    url: https://sciencegateways.org/
+    logo: /assets/imgs/logos/SGX3Mediamodifier-Design.svg
+    grant:
+      - awardagency: National Science Foundation
+        logo: /assets/imgs/logos/NSF.svg
         url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231406
         description: >
-          The SGCI is funded by the National Science Foundation under award number ACI-1547611. SGX3 is funded by the National Science Foundation under award number 2231406. 
+          SGX3 is funded by the National Science Foundation under award number 2231406. 
       
   - name: Omnibond Systems
     url: http://omnibond.com/
-    logo: /assets/imgs/logos/sfu-BigData-logo.png
+    logo: /assets/imgs/logos/omnibond.svg
   - name: Texas Advanced Computing Center
     url: https://www.tacc.utexas.edu/
-    logo: /assets/imgs/logos/tacc-logo-color.png
+    logo: /assets/imgs/logos/TACC-formal-Black-1c-5602fc8f.svg
   - name: Amazon Web Services
     url: https://aws.amazon.com/
-    logo: /assets/imgs/logos/AWS_logo_RGB.png
+    logo: /assets/imgs/logos/AWS_logo_RGB.svg
   - name: HackHPC.org
     url: http://hackhpc.org/
-    logo: /assets/imgs/logos/HackHPC-logo.png
+    logo: /assets/imgs/logos/hackhpclogo-only.svg

@@ -2,12 +2,13 @@
 layout: post
 title: "Mentor Portal Pitches"
 categories: session
+tags: presentation
+banner:
+  image: "/assets/imgs/HackHPCatADMI23-ai-logo.jpeg"
+  height: "25vh"
 
 ---
-
-## Portal Pitches
-
-# ADMI [(admiusa.org)](https://admiusa.org)
+## ADMI [(admiusa.org)](https://admiusa.org)
 
 <table>
     <tr>
@@ -18,7 +19,7 @@ categories: session
     </tr>
 </table>
 
-# HackHPC [hackhpc.org](http://hackhpc.org)
+## HackHPC [hackhpc.org](http://hackhpc.org)
 
 <table>
     <tr>

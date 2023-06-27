@@ -2,11 +2,12 @@
 layout: post
 title: "Code of Conduct"
 categories: session
+tags: Reference
+banner:
+  image: "/assets/imgs/HackHPCatADMI23-ai-logo.jpeg"
+  height: "25vh"
 
 ---
-
-## Code of Conduct
-
 
 
 <br> 
