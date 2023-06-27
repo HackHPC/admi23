@@ -29,6 +29,11 @@
         <br>
         {% endfor %}
 
+        {% if team.zoombackground %}
+        Team Zoom Background
+        <a href="{{ team.zoombackground | relative_url }}"><img src="{{ team.zoombackground | relative_url }}" width="300px"></a>
+        {% endif %}
+
 
       </td>
      <td> 
@@ -66,6 +71,20 @@
             {% endif %}
          </li>   
         {% endfor %}
+
+        {% for resource in team.resources %}
+          <li> Team Resources:
+            <ul>
+              <li>
+            <strong><a href="{{ resource.url }}"><i class="fas fa-link"></i> {{ resource.name }} </a></strong><br>
+            <p> {{ resource.usage }}</p>
+              </li>
+            </ul>
+          </li>
+         
+     
+
+         {% endfor %}
              
        </ul>  
   </td>

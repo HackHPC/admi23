@@ -1,47 +1,33 @@
 ##################################
 ## References
 #################################
-references:
+hackathon:
 - name: HackHPC Code of Conduct
   url: http://hackhpc.org/codeofconduct
+- name: HackHPC.org 
+  url: http://hackhpc.org
+- name: HackHPC Past Hackathon Events
+  url: http://hackhpc.org/pasthacks/
+
+computinghosting:
 - name: TACC Analysis Portal (TAP)
   url: https://tap.tacc.utexas.edu
 - name: Texas Advanced Computing Center
   url: https://www.tacc.utexas.edu
 - name: Amazon Web Services
   url: https://aws.amazon.com
-- name: HackHPC.org 
-  url: http://hackhpc.org
-- name: HackHPC Past Hackathon Events
-  url: http://hackhpc.org/pasthacks/
+
+references:
 - name: GitHub Markdown Reference
   url: https://github.github.com/gfm 
 - name: Introduction to GitHub
   url: https://lab.github.com/githubtraining/introduction-to-github
-- name: Introduction to Version Control
-  url: https://swcarpentry.github.io/git-novice/
-- name: "Google Colab"
-  url: https://colab.research.google.com/
 - name: GitHub Tutorial
   url: https://docs.github.com/en/get-started/quickstart/hello-world
 - name: GitHub Pages
   url: https://pages.github.com/
 - name: Students guide to GitHub Pages
   url: https://codeburst.io/how-to-create-and-publish-a-website-a-students-guide-1ffd9fdd6b39
-- name: "GitHub Codespaces ([Note:] Codespaces is available for free for individual use for up to 60 hours a month and comes with simple, pay-as-you-go pricing afterwards. (Last Checked 6/21/23 Ref. https://github.com/features/codespaces)"
-  url: https://github.com/codespaces
-- name: Codespaces Primers and Development Pack
-  url: https://education.github.com/experiences/primer_codespaces
-- name: Codespaces Overview 
-  url: https://docs.github.com/en/codespaces/overview
-- name: Codespace Quickstart
-  url: https://github.com/codespaceshttps://docs.github.com/en/codespaces/getting-started/quickstart
-- name: Shutting down / Stopping Codespaces
-  url: https://docs.github.com/en/codespaces/developing-in-codespaces/stopping-and-starting-a-codespace
-- name: Jekyll Themes
-  url: http://jekyllthemes.org/
-- name: Serving Jekyll site locally
-  url: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
 - name: Liquid 
   url: https://shopify.github.io/liquid/basics/introduction/
 - name: Markdown Github Cheatsheet
@@ -56,10 +42,29 @@ references:
   url: https://spacelift.io/blog/yaml
 - name: W3 Font Awesome Brand Icons 
   url: https://www.w3schools.com/icons/fontawesome_icons_brand.asp
+- name: Introduction to Version Control
+  url: https://swcarpentry.github.io/git-novice/
+
+codeplatforms:
+- name: "Google Colab"
+  url: https://colab.research.google.com/
 - name: VS Code Source Code Editor and IDE 
   url: https://code.visualstudio.com/
 - name: VS Code Intro Videos 
   url: https://code.visualstudio.com/docs/getstarted/introvideos
+- name: "GitHub Codespaces ([Note:] Codespaces is available for free for individual use for up to 60 hours a month and comes with simple, pay-as-you-go pricing afterwards. (Last Checked 6/21/23 Ref. https://github.com/features/codespaces)"
+  url: https://github.com/codespaces
+- name: Codespaces Primers and Development Pack
+  url: https://education.github.com/experiences/primer_codespaces
+- name: Codespaces Overview 
+  url: https://docs.github.com/en/codespaces/overview
+- name: Codespace Quickstart
+  url: https://github.com/codespaceshttps://docs.github.com/en/codespaces/getting-started/quickstart
+- name: Shutting down / Stopping Codespaces
+  url: https://docs.github.com/en/codespaces/developing-in-codespaces/stopping-and-starting-a-codespace
+
+
+uiuxdesign:
 - name: Quick and easy UI tips
   url: https://twitter.com/i/events/968521944004943872
 - name: More UI tips
@@ -78,6 +83,13 @@ references:
   url: https://github.com/google/docsy
 - name: Docsy.dev
   url: https://www.docsy.dev/
+- name: Oragami Studio
+  url: https://origami.design/
+- name: Jekyll Themes
+  url: http://jekyllthemes.org/
+- name: Serving Jekyll site locally
+  url: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+
 
 datasets:
 - name: HackHPC Datasets

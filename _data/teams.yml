@@ -24,21 +24,51 @@ teams:
       'https://www.linkedin.com/in/lenasha-williams/']
     email: [kmatt264@gmail.com, javid.ibrahimov@mvsu.edu, sovkat.zeynalli@mvsu.edu,
       freshfor01@gmail.com, lenashawilliams1486@gmail.com]
-  themesong: {}
-  themesongname: {}
-  zoombackground: {}
-  projecturl: {}
-  projectgoals: {}
-  emojicode: {}
+  themesong: https://youtu.be/nPMqX7Fu_E4?t=18s
+  themesongname: TLC - What About Your Friends (Instrumental)
+  zoombackground: teams/dataminers/dataminerszoombackground.png
+  projecturl: https://admiusa.org
+  projectgoals: >
+    1) Create foundational website, 2) Make "About Us" with logo, blurb, and leaders, 
+    3) Create "Resources Page", 4) Create a working newsletter data repo, and 5) Create a blog 
+  #emojicode: {}
   links:
-    name: {}
-    url: {}
-    icon: {}
-    iconcolor: {}
+    - name: Team Introduction
+      url: teams/dataminers/team_introduction.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team Goals
+      url: teams/dataminers/dataminersTeam_Goals.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team References
+      url: teams/dataminers/dataminersResources.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
   images:
     - name: Team Introduction
       url: "teams/dataminers/team_introduction.pdf"
       imagelink: "teams/dataminers/team_introduction.png"
+    - name: Team Resources
+      url: teams/dataminers/dataminersResources.pdf
+      imagelink: teams/dataminers/dataminersTeam_Goals_and_Resources.png
+  resources:
+    - name: GitHub
+      url: https://github.com/
+      usage: Has existing code we could use
+    - name: StackOverflow
+      url: https://stackoverflow.com/
+      usage: Has existing code we could use
+    - name: ChatGPT
+      url: https://chat.openai.com/
+      usage: Can help us write some of the code
+    - name: ADMI
+      url: https://www.admiusa.org/
+      usage: We need the actual website to redesign it
+    - name: Origami Studio
+      url: https://origami.design/
+      usage: Helps us visualize some of the code
+
 
 
 ##############################################
@@ -61,21 +91,54 @@ teams:
     socials: ['https://www.linkedin.com/in/anthony-nwafor-9b8055236/', 'https://www.linkedin.com/in/emmanuel-nwokpo-68b655250 ',
       'https://www.linkedin.com/in/teniola-oluwaseyitan-3a4622262']
     email: [anthonynwafor261@gmail.com, chideranwokpo27@gmail.com, teniola.oluwaseyitan@mvsu.edu]
-  themesong: {}
-  themesongname: {}
-  zoombackground: {}
-  projecturl: {}
-  projectgoals: {}
-  emojicode: {}
+  themesong: https://youtu.be/h3h035Eyz5A
+  themesongname: Sia - Unstoppable
+  zoombackground: teams/codewarriors/codewarriorszoom.jpg
+  projecturl: https://admiusa.org/
+  projectgoals: >
+    1) Research the best way to incorporate video to a webpage/website. 
+    2) Develop a faq that answers basic questions about ADMI. 
+    3) Implement member login and profile feature. 
+    4) Create a Feedback page. 
+    5) Create a blog page.  
+  #emojicode: {}
   links:
-    name: {}
-    url: {}
-    icon: {}
-    iconcolor: {}
+    - name: Team Introduction
+      url: teams/codewarriors/team_introduction.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team Goals
+      url: teams/codewarriors/codewarriorsTeam_Goals.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team References
+      url: teams/codewarriors/codewarriorsResources.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
   images:
     - name: Team Introduction
       url: "teams/codewarriors/team_introduction.pdf"
       imagelink: "teams/codewarriors/team_introduction.png"
+    - name: Team Resources
+      url: teams/codewarriors/codewarriorsResources.pdf
+      imagelink: teams/codewarriors/codewarriorsTeam_Goals_and_Resources.png
+  resources:
+    - name: Vartech Services
+      url: http://www.vartechservices.com/codewarriors/hello.html
+      usage: Sandbox Web Server
+    - name: Cpanel
+      url: http://vartechservices.com/cpanel
+      usage: Server Configuration  	
+    - name: Canva 
+      url: https://www.canva.com/
+      usage: Website Design
+    - name: HTML
+      url: https://developer.mozilla.org/en-US/docs/Web/HTML
+      usage: Website Layout
+    - name: CSS
+      url: https://developer.mozilla.org/en-US/docs/Web/CSS
+      usage: Website Animation
+
 
 
 ##############################################
@@ -106,18 +169,55 @@ teams:
       'https://www.linkedin.com/in/cierrah-washington-2964b1239/']
     email: [ronny.kiprono@morehouse.edu, sethamack89@gmail.com, Gerrickjones030@gmail.com,
       jad1312004@gmail.com, gaines.yamonta@philander.edu, ciewas1213@gmail.com]
-  #themesong: {}
-  #themesongname: {}
-  #zoombackground: {}
-  #projecturl: {}
-  #projectgoals: {}
+  themesong: https://soundcloud.com/freddy_fazbear01/the-living-tombstone-the-ghostbusters-theme-instrumental-tlt?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+  themesongname: GhostBusters Theme Song (Instrumental) 
+  zoombackground: teams/bugbusters/bugbusterszoom.jpg
+  projecturl: http://hackhpc.org
+  projectgoals: >
+    1) Find target audience for new HackHPC website 
+    2) Include informative content about a hackathon, how you register, past, current, and future events, who the staff are, what the rules are, and how you contact us. 
+    3) Improve navigation by including a search bar, headers & footers 
+    4) Link information from both websites 
+    5) Update aesthetics by adding images from most recent events, creating a thematically consistent UI, and organizing content  
   #emojicode: {}
-  #links:
-  #  - name: {}
-  #    url: {}
-  #    icon: {}
-  #    iconcolor: {}
+  links:
+    - name: Team Introduction
+      url: teams/bugbusters/team_introduction.png
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team Goals
+      url: teams/bugbusters/bugbustersTeam_Goals.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team References
+      url: teams/bugbusters/bugbustersResources.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
   images:
     - name: Team Introduction
       url: "teams/bugbusters/team_introduction.pdf"
       imagelink: "teams/bugbusters/team_introduction.png"
+    - name: Team Resources
+      url: teams/bugbusters/bugbustersResources.pdf
+      imagelink: teams/bugbusters/bugbustersTeam_Goals_and_Resources.png
+  resources:
+    - name: Hugo
+      url: https://gohugo.io/
+      usage: Fast website building
+    - name: HackHPC Events
+      url: https://hackhpc.github.io/
+      usage: Provides ideas and guides based on sites	
+    - name: Visual Studio Code
+      url: https://code.visualstudio.com/ 
+      usage: Reliable auto fill, Cross-platform support
+    - name: Html CheatSheet
+      url: https://htmlcheatsheet.com/css/  
+      usage: Will be used to cut the time for finding a color
+    - name: HackHPC website
+      url: http://hackhpc.org/https://stackoverflow.com
+      usage: Provides content for new website, Existing code to build off of existing references
+
+      
+
+
+
