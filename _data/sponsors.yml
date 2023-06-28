@@ -13,7 +13,7 @@ sponsors: # Used for Sponsors
           The SGCI is funded by the National Science Foundation under award number ACI-1547611.
   - name: "SGX3"
     url: https://sciencegateways.org/
-    logo: /assets/imgs/logos/SGX3Mediamodifier-Design.svg
+    logo: assets/imgs/logos/SGX3-logo.svg
     grant:
       - awardagency: National Science Foundation
         logo: /assets/imgs/logos/NSF.svg
