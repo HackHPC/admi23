@@ -7,37 +7,17 @@
      {% endfor %}
      <br>
     
-    <table>
+ 
     
     {% for team in site.data.teams.teams %}
-  
-    <tr style="border-bottom: 2px solid darkgrey;">
-      <td style="vertical-align: top;">
-        <h1 id="{{ team.teamname }}" style="background-color:#e4bd19;">{{ team.teamname }}</h1>
-        <img src="{{ team.image | relative_url }}" width="300px">
-
-        <br>
-        {% for image in team.images %}
+  <div>
+    
+        <h2 id="{{ team.teamname }}" style="border-bottom: 4px solid black; margin: 0px;"><i class="fas fa-users"></i> {{ team.teamname }}</h2>
+        <div style="display:flex;">
         
-        {{ image.name }}
-        {% if image.url %}
-        <a href="{{ image.url | relative_url }}"><img src="{{ image.imagelink | relative_url }}" width="300px"></a>
-        {% else %}
+         
 
-        <img src="{{ image.imagelink | relative_url }}" width="300px">
-        {% endif %}
-        <br>
-        {% endfor %}
-
-        {% if team.zoombackground %}
-        Team Zoom Background
-        <a href="{{ team.zoombackground | relative_url }}"><img src="{{ team.zoombackground | relative_url }}" width="300px"></a>
-        {% endif %}
-
-
-      </td>
-     <td> 
-      
+      <div style="width: 30%;">
     <h2> Team Mentors:</h2>
 
       <ul>
@@ -58,7 +38,19 @@
         {% endfor %}
              
        </ul>  
+      </div>
+     <div>  
     <h2> Links: </h2>
+    {% if team.projecturl %}
+     <a href="{{ team.projecturl }}"><i style="color: black;" class="fas fa-bullseye"></i> Target Portal Link  </a>
+     <br>
+     {% endif %}
+
+    {% if team.themesong %}
+   <strong>Team Theme Song: </strong> <br>
+    <a href="{{ team.themsong }}"><i style="color: black;" class="fas fa-music"></i> {{ team.themesongname }}  </a>
+    {% endif %}
+
      <ul>
     
         {% for link in team.links%}
@@ -71,26 +63,60 @@
             {% endif %}
          </li>   
         {% endfor %}
-
+        
+        {% if team.resources %}
+        <li> <strong> Resources: </strong>
+          <ul>
         {% for resource in team.resources %}
-          <li> Team Resources:
-            <ul>
+          
               <li>
             <strong><a href="{{ resource.url }}"><i class="fas fa-link"></i> {{ resource.name }} </a></strong><br>
-            <p> {{ resource.usage }}</p>
+            {{ resource.usage }}
               </li>
+              {% endfor %}
             </ul>
           </li>
-         
+         {% endif %}
      
 
-         {% endfor %}
+         
              
        </ul>  
-  </td>
-</tr>
-<tr> </tr> 
+      </div>
+    
+    
+      
+    
+    
+
+    <div style="display:flex; flex-direction: column; width: 300px; margin: 10px;">
+      <img src="{{ team.image | relative_url }}" width="300px">
+
+      <br>
+      {% for image in team.images %}
+      
+      <strong> {{ image.name }}</strong>
+      {% if image.url %}
+      <a href="{{ image.url | relative_url }}"><img style="border: 2px solid black;" src="{{ image.imagelink | relative_url }}" width="300px"></a>
+      {% else %}
+
+      <img style="border: 2px solid black;" src="{{ image.imagelink | relative_url }}" width="300px">
+      {% endif %}<br>
+     
+
+      <br>
+      {% endfor %}
+
+      {% if team.zoombackground %}
+      <strong>Team Zoom Background</strong>
+      <a href="{{ team.zoombackground | relative_url }}"><img style="border: 2px solid black;" src="{{ team.zoombackground | relative_url }}" width="300px"></a>
+     
+      {% endif %}
+    </div>
+    
+    </div>
+    <hr >
 {% endfor %}
 
-</table>
+
 </div>
