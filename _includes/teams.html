@@ -18,7 +18,7 @@
          
 
       <div style="width: 30%;">
-    <h2> Team Mentors:</h2>
+    <h3 style="margin-top: 0; margin-bottom: 5px;"> Team Mentors:</h3>
 
       <ul>
         {% for member in team.mentor.names %}
@@ -28,7 +28,7 @@
       </ul>
     
     
-      <h2> Team Members: </h2>
+      <h3 style="margin-top: 0; margin-bottom: 5px;"> Team Members: </h3>
    
     <ul>
        
@@ -40,7 +40,7 @@
        </ul>  
       </div>
      <div>  
-    <h2> Links: </h2>
+    <strong> Links: </strong><br>
     {% if team.projecturl %}
      <a href="{{ team.projecturl }}"><i style="color: black;" class="fas fa-bullseye"></i> Target Portal Link  </a>
      <br>
