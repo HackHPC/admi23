@@ -27,7 +27,7 @@ teams:
   themesong: https://youtu.be/nPMqX7Fu_E4?t=18s
   themesongname: TLC - What About Your Friends (Instrumental)
   zoombackground: teams/dataminers/dataminerszoombackground.png
-  projecturl: https://admiusa.org
+  targeturl: https://admiusa.org
   projectgoals: >
     1) Create foundational website, 2) Make "About Us" with logo, blurb, and leaders, 
     3) Create "Resources Page", 4) Create a working newsletter data repo, and 5) Create a blog 
@@ -94,7 +94,7 @@ teams:
   themesong: https://youtu.be/h3h035Eyz5A
   themesongname: Sia - Unstoppable
   zoombackground: teams/codewarriors/codewarriorszoom.jpg
-  projecturl: https://admiusa.org/
+  targeturl: https://admiusa.org/
   projectgoals: >
     1) Research the best way to incorporate video to a webpage/website. 
     2) Develop a faq that answers basic questions about ADMI. 
@@ -161,7 +161,7 @@ teams:
     affiliationurl: ['https://morehouse.edu/', 'https://morehouse.edu/', 'https://morehouse.edu/',
       'https://morehouse.edu/', 'https://www.philander.edu/', 'https://www.wssu.edu/']
     major: [Computer Science, Computer Science, Computer Science, Computer
-        Science, .nan, Computer Science]
+        Science, none, Computer Science]
     role: [Hacker / participant, Hacker / participant, Hacker / participant,
       Hacker / participant, Hacker / participant, Hacker / participant]
     socials: ['https://twitter.com/RonnyKiprono66', 'https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fseth-mack-8b62b5183&h=AT37Mgtwepd8wn3PxyeV4fAFiCZxMqvfLfXMc8hDI9uEnd76Sy8HzhiI3ss1SF1fMNEWjTkgJ-PaUCHsiewxJ0K_S-ZmTcHfmRUEZNBtPCYrGSz_RIhFYExVsiWsz3YRw1ICRKzkQU-EpBR6wQUm&s=1',
@@ -172,7 +172,7 @@ teams:
   themesong: https://soundcloud.com/freddy_fazbear01/the-living-tombstone-the-ghostbusters-theme-instrumental-tlt?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
   themesongname: GhostBusters Theme Song (Instrumental) 
   zoombackground: teams/bugbusters/bugbusterszoom.jpg
-  projecturl: http://hackhpc.org
+  targeturl: http://hackhpc.org
   projectgoals: >
     1) Find target audience for new HackHPC website 
     2) Include informative content about a hackathon, how you register, past, current, and future events, who the staff are, what the rules are, and how you contact us. 

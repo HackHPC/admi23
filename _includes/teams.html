@@ -13,6 +13,18 @@
   <div>
     
         <h2 id="{{ team.teamname }}" style="border-bottom: 4px solid black; margin: 0px;"><i class="fas fa-users"></i> {{ team.teamname }}</h2>
+        
+      
+        <p style="margin-bottom: 2px;">{% if team.projectgoals %}
+          <strong>Project Goal(s):</strong> {{ team.projectgoals }}
+       
+       {% endif %}
+       
+       {% if team.targeturl %}
+       <a style="margin-left: 15px;" href="{{ team.targeturl }}"><i style="color: black;" class="fas fa-bullseye"></i> Target Portal: {{ team.targeturl }} </a><br>
+       <br>
+       {% endif %}
+      </p>
         <div style="display:flex;">
         
          
@@ -22,8 +34,26 @@
 
       <ul>
         {% for member in team.mentor.names %}
-        <li><strong>{{ member }}</strong> -  <br> {{ team.mentor.affiliation[forloop.index0 ] }} <br>
-        </li>
+        <li><strong>{{ member }}</strong> 
+          {% if  team.mentor.socials[forloop.index0 ] %} 
+          {% if  team.mentor.email[forloop.index0 ] %} 
+          <a href="mailto:{{ team.mentor.email[forloop.index0 ] }}"><i style="color: black" class="fas fa-envelope"></i></a>
+         
+          {% endif %}
+             {% if team.mentor.socials[forloop.index0 ] contains "linkedin" %}
+              <a href="{{ team.mentor.socials[forloop.index0 ] }}"><i style="color: darkblue" class="fab fa-linkedin"></i></a>
+             {% elsif team.mentor.socials[forloop.index0 ] contains "twitter" %}
+             <a href="{{ team.mentor.socials[forloop.index0 ] }}"><i style="color: blue" class="fab fa-twitter"></i></a>
+             {% else %}
+             <a href="{{ team.mentor.socials[forloop.index0 ] }}"><i style="color: black" class="fas fa-usercircle"></i></a>
+              {% endif %}          
+             {% endif %}
+            
+
+             <br> <a href="{{ team.mentor.affiliationurl[forloop.index0 ] }}"> {{ team.mentor.affiliation[forloop.index0 ] }} </a><br>
+        
+      
+            </li>
      {% endfor %}
       </ul>
     
@@ -33,23 +63,48 @@
     <ul>
        
         {% for member in team.members.names %}
-            <li><strong>{{ member }}</strong> - <em>{{ team.members.major[forloop.index0] }}</em>  <br>{{ team.members.affiliation[forloop.index0 ] }} <br>
+            <li><strong>{{ member }}</strong> 
+              
+              {% if  team.members.socials[forloop.index0 ] %} 
+          {% if  team.members.email[forloop.index0 ] %} 
+          <a href="mailto:{{ team.members.email[forloop.index0 ] }}"><i style="color: black" class="fas fa-envelope"></i></a>
+         
+          {% endif %}
+             {% if team.members.socials[forloop.index0 ] contains "linkedin" %}
+              <a href="{{ team.members.socials[forloop.index0 ] }}"><i style="color: darkblue" class="fab fa-linkedin"></i></a>
+             {% elsif team.members.socials[forloop.index0 ] contains "twitter" %}
+             <a href="{{ team.members.socials[forloop.index0 ] }}"><i style="color: blue" class="fab fa-twitter"></i></a>
+             {% else %}
+             <a href="{{ team.members.socials[forloop.index0 ] }}"><i style="color: black" class="fas fa-usercircle"></i></a>
+              {% endif %}          
+             {% endif %}
+              
+              
+              
+              
+              {% if team.members.major[forloop.index0] == "none" %}
+              {% else %}
+              <br> <em>{{ team.members.major[forloop.index0] }}</em> 
+              {% endif %}
+              
+              <br><a href="{{ team.members.affiliationurl[forloop.index0 ] }}">{{ team.members.affiliation[forloop.index0 ] }} </a><br>
+              
             </li>
         {% endfor %}
              
        </ul>  
-      </div>
-     <div>  
-    <strong> Links: </strong><br>
-    {% if team.projecturl %}
-     <a href="{{ team.projecturl }}"><i style="color: black;" class="fas fa-bullseye"></i> Target Portal Link  </a>
-     <br>
-     {% endif %}
+
+    
 
     {% if team.themesong %}
-   <strong>Team Theme Song: </strong> <br>
-    <a href="{{ team.themsong }}"><i style="color: black;" class="fas fa-music"></i> {{ team.themesongname }}  </a>
+   <strong style="margin-left: 10px;">Team Theme Song: </strong> <br>
+    <a style="padding-left: 15px;" href="{{ team.themsong }}"><i style="color: black;" class="fas fa-music"></i> {{ team.themesongname }}  </a>
     {% endif %}
+      </div>
+     
+      <div style="width: 30%;">  
+    <strong> Links: </strong><br>
+    
 
      <ul>
     
@@ -63,9 +118,9 @@
             {% endif %}
          </li>   
         {% endfor %}
-        
+        </ul>
         {% if team.resources %}
-        <li> <strong> Resources: </strong>
+        <strong> Resources: </strong><br>
           <ul>
         {% for resource in team.resources %}
           
