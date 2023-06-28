@@ -1,5 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-27T22:37:02-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
-</subtitle><author><name>HackHPC</name></author><entry><title type="html">Code of Conduct</title><link href="http://localhost:4000/admi23/session/2023/06/26/CodeofConduct.html" rel="alternate" type="text/html" title="Code of Conduct" /><published>2023-06-26T00:00:00-05:00</published><updated>2023-06-26T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/26/CodeofConduct</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/26/CodeofConduct.html"><![CDATA[<p><br /> 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-27T23:24:06-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
+</subtitle><author><name>HackHPC</name></author><entry><title type="html">UI/UX Design</title><link href="http://localhost:4000/admi23/session/2023/06/27/UIUX.html" rel="alternate" type="text/html" title="UI/UX Design" /><published>2023-06-27T00:00:00-05:00</published><updated>2023-06-27T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/27/UIUX</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/27/UIUX.html"><![CDATA[<p><img style="float:left; margin: 15px; border-radius: 8px; height: 300px;" src="/admi23/assets/images/ali/image.png" /></p>
+
+<h2 style="margin-top: 1px; padding-top: 1px;"> UI/UX Design </h2>
+
+<h1 id="presented-by-ali-baigelenov---">Presented by: Ali Baigelenov <a href="mailto:abaigele@purdue.edu"> <i style="color: black" class="fa-solid fa-envelope"></i></a> <a href="https://www.linkedin.com/in/ali-baigelenov/"><i style="color: darkblue" class="fa-brands fa-linkedin"></i></a></h1>
+
+<p>Ali Baigelenov is currently a PhD graduate student at <a href="https://www.purdue.edu">Purdue University</a> majoring in Computer Graphics Technology. His research and general areas of interest include UX, HCI, Information Visualization, Design and Web Development. </p>
+
+<p style="margin-left: 20px; ">
+<strong>5W’s in UX:</strong> <br />
+  &nbsp;Who are the users?<br />
+  &nbsp;What are they doing in terms of tasks?<br />
+  &nbsp;When are they doing their tasks?<br />
+  &nbsp;Where are they doing their tasks?<br />
+  &nbsp;Why are they doing their tasks?<br />
+</p>
+<h1 id="suggested-resources">Suggested Resources:</h1>
+
+<ul>
+  <li><strong>Quick and easy UI tips</strong> - <a href="https://twitter.com/i/events/968521944004943872">https://twitter.com/i/events/968521944004943872</a></li>
+  <li><strong>More UI tips</strong> - <a href="https://twitter.com/i/events/880688233641848832">https://twitter.com/i/events/880688233641848832</a></li>
+  <li><strong>Usability</strong> - <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">https://www.nngroup.com/articles/ten-usability-heuristics/</a></li>
+  <li><strong>UX</strong> -  <a href="https://www.learnui.design/blog/4-rules-intuitive-ux.html">https://www.learnui.design/blog/4-rules-intuitive-ux.html</a></li>
+</ul>
+
+<p><img style="border: 2px solid darkblue;" src="/admi23/assets/images/ali/uiux-principles.png" /></p>
+
+<p> </p>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="presentation" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Code of Conduct</title><link href="http://localhost:4000/admi23/session/2023/06/26/CodeofConduct.html" rel="alternate" type="text/html" title="Code of Conduct" /><published>2023-06-26T00:00:00-05:00</published><updated>2023-06-26T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/26/CodeofConduct</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/26/CodeofConduct.html"><![CDATA[<p><br /> 
 All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iTbXbjL1dl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="padding: 15px; float: right;"></iframe>
