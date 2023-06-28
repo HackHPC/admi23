@@ -2,7 +2,7 @@
 layout: post
 title: "Mentor Portal Pitches"
 categories: session
-tags: presentation
+tags: Presentation
 banner:
   image: "/assets/imgs/HackHPCatADMI23-ai-logo.jpeg"
   height: "25vh"
