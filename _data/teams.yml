@@ -50,7 +50,8 @@ teams:
       icon: fa-brands fa-github
       iconcolor: black
     - name: Team Portal Demo
-      url: fa-solid fa-globe
+      url: https://lolli1486.github.io/agency-jekyll-theme/
+      icon: fa-solid fa-globe
       iconcolor: slategrey
   images:
     - name: Team Introduction
@@ -207,13 +208,14 @@ teams:
       url: teams/bugbusters/bugbustersResources.pdf
       icon: fa-regular fa-file-pdf
       iconcolor: red
-    #- name: Team GitHub Repo
-    #  url: https://github.com/Lolli1486/agency-jekyll-theme
-    #  icon: fa-brands fa-github
-    #  iconcolor: black
-    #- name: Team Portal Demo
-    #  url: fa-solid fa-globe
-    #  iconcolor: slategrey
+    - name: Team GitHub Repo
+      url: https://github.com/CierrahW/Hacking4HPC
+      icon: fa-brands fa-github
+      iconcolor: black
+    - name: Team Portal Demo
+      url: https://lolli1486.github.io/agency-jekyll-theme/
+      icon: fa-solid fa-globe
+      iconcolor: slategrey
   images:
     - name: Team Introduction
       url: "teams/bugbusters/team_introduction.pdf"
