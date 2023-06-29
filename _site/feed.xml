@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-29T02:46:24-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
-</subtitle><author><name>HackHPC</name></author><entry><title type="html">Final Presentation Deliverables</title><link href="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html" rel="alternate" type="text/html" title="Final Presentation Deliverables" /><published>2023-06-28T00:00:00-05:00</published><updated>2023-06-28T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html"><![CDATA[<h2 id="team-deliverables">Team Deliverables:</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-29T13:33:08-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
+</subtitle><author><name>HackHPC</name></author><entry><title type="html">Deliverables</title><link href="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html" rel="alternate" type="text/html" title="Deliverables" /><published>2023-06-28T00:00:00-05:00</published><updated>2023-06-28T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html"><![CDATA[<h2 id="team-deliverables">Team Deliverables:</h2>
 <p>Final presentations will begin at 1:30pm EDT (12:30pm CDT).</p>
 
 <p><a href="/admi23/assets/slides/HackHPC-Poster-Templatepptx.pptx"><img src="/admi23/assets/slides/HackHPC-Poster-Templatepptx.jpg" style="width: 350px; float: right; border: 2px solid darkblue; margin: 10px;" /></a></p>
@@ -40,6 +40,7 @@
   &nbsp;Where are they doing their tasks?<br />
   &nbsp;Why are they doing their tasks?<br />
 </p>
+
 <h1 id="suggested-resources">Suggested Resources:</h1>
 
 <ul>
@@ -47,6 +48,7 @@
   <li><strong>More UI tips</strong> - <a href="https://twitter.com/i/events/880688233641848832">https://twitter.com/i/events/880688233641848832</a></li>
   <li><strong>Usability</strong> - <a href="https://www.nngroup.com/articles/ten-usability-heuristics/">https://www.nngroup.com/articles/ten-usability-heuristics/</a></li>
   <li><strong>UX</strong> -  <a href="https://www.learnui.design/blog/4-rules-intuitive-ux.html">https://www.learnui.design/blog/4-rules-intuitive-ux.html</a></li>
+  <li><strong>4 Rules for Intuitive UX</strong> - [https://www.learnui.design/blog/4-rules-intuitive-ux.html]</li>
 </ul>
 
 <p><img style="border: 2px solid darkblue;" src="/admi23/assets/images/ali/uiux-principles.png" /></p>
