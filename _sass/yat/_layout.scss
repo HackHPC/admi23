@@ -41,6 +41,7 @@ html {
 
       .site-footer-inner {
         border-top: solid 1px #eee;
+        
       }
     }
   }
@@ -194,6 +195,9 @@ html {
   background-color: $footer-background-color;
   text-align: left;
   transition: background-color 0.2s;
+  background-image: url("/admi23/assets/imgs/HackHPCatADMI23-ai-logo.jpeg");
+  background-repeat: no-repeat;
+  background-position: right;
 
   .site-footer-inner {
     transition: border-top 0.2s;

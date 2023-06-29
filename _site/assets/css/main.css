@@ -387,6 +387,9 @@ html[data-scroll-status=down] .framework .sidebar {
   background-color: #f2f2f2;
   text-align: left;
   transition: background-color 0.2s;
+  background-image: url("/admi23/assets/imgs/HackHPCatADMI23-ai-logo.jpeg");
+  background-repeat: no-repeat;
+  background-position: right;
 }
 .site-footer .site-footer-inner {
   transition: border-top 0.2s;
