@@ -1,5 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-28T19:30:06-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
-</subtitle><author><name>HackHPC</name></author><entry><title type="html">UI/UX Design</title><link href="http://localhost:4000/admi23/session/2023/06/27/UIUX.html" rel="alternate" type="text/html" title="UI/UX Design" /><published>2023-06-27T00:00:00-05:00</published><updated>2023-06-27T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/27/UIUX</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/27/UIUX.html"><![CDATA[<p><img style="float:left; margin: 15px; border-radius: 8px; height: 300px;" src="/admi23/assets/images/ali/image.png" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-06-28T21:53:42-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
+</subtitle><author><name>HackHPC</name></author><entry><title type="html">Final Presentation Deliverables</title><link href="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html" rel="alternate" type="text/html" title="Final Presentation Deliverables" /><published>2023-06-28T00:00:00-05:00</published><updated>2023-06-28T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html"><![CDATA[<h2 id="team-deliverables">Team Deliverables:</h2>
+<p>Final presentations will begin at 1:30pm EDT (12:30pm CDT).</p>
+
+<p><a href="/admi23/assets/slides/HackHPC-Poster-Templatepptx.pptx"><img src="/admi23/assets/slides/HackHPC-Poster-Templatepptx.jpg" style="width: 350px; float: right; border: 2px solid darkblue; margin: 10px;" /></a></p>
+
+<ul>
+  <li><strong>Project GitHub Repository</strong>
+    <ul>
+      <li><em>Link posted to the #hackhpc-admi23-hackathon channel</em></li>
+    </ul>
+  </li>
+  <li><strong>PDF of Team Presentation</strong></li>
+  <li><strong>PDF of Team Poster</strong> <a href="/admi23/assets/slides/HackHPC-Poster-Templatepptx.pptx">Template Poster</a>
+    <ul>
+      <li><em>Team Members and Mentor(s) Names</em></li>
+      <li><em>Identified issues</em></li>
+      <li><em>Addressed issues and methods/technologies used</em></li>
+      <li><em>Demo Site Link</em></li>
+      <li><em>Demo Site Screen Shot(s)</em></li>
+      <li><em>Future Work/Recomendations</em></li>
+      <li><em>References</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p> </p>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Reference" /><summary type="html"><![CDATA[Team Deliverables: Final presentations will begin at 1:30pm EDT (12:30pm CDT).]]></summary></entry><entry><title type="html">UI/UX Design</title><link href="http://localhost:4000/admi23/session/2023/06/27/UIUX.html" rel="alternate" type="text/html" title="UI/UX Design" /><published>2023-06-27T00:00:00-05:00</published><updated>2023-06-27T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/27/UIUX</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/27/UIUX.html"><![CDATA[<p><img style="float:left; margin: 15px; border-radius: 8px; height: 300px;" src="/admi23/assets/images/ali/image.png" /></p>
 
 <h2 style="margin-top: 1px; padding-top: 1px;"> UI/UX Design </h2>
 
