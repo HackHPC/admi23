@@ -113,7 +113,7 @@
           
           {% if imageoverlay != null and imageoverlay != "" %}   
           
-            <img src="{{ imageoverlay | relative_url }}" style="width: 70%; display: block; margin: auto;"> 
+            <img src="{{ imageoverlay | relative_url }}" style="width: 70%; display: block; margin: auto;" > 
           {% endif %}
 
           </div>
@@ -133,7 +133,7 @@
         {%- else -%}
 
           <div class="page-banner-default">
-            <h1 class="page-banner-heading">
+            <h1 style="font-size: 120px; text-shadow: #222 1px 0 10px;"    class="page-banner-heading">
               {% if imageoverlay != null and imageoverlay != "" %}
               
               {% else %}
