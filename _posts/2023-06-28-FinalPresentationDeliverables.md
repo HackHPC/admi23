@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Presentation Deliverables"
+title: "Deliverables"
 categories: session
 tags: [Reference]
 banner:
