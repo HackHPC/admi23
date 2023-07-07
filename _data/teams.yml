@@ -28,6 +28,7 @@ teams:
   themesongname: TLC - What About Your Friends (Instrumental)
   zoombackground: teams/dataminers/dataminerszoombackground.png
   targeturl: https://admiusa.org
+  awards: Judges Choice Award 2nd Place 
   projectgoals: >
     1) Create foundational website, 2) Make "About Us" with logo, blurb, and leaders, 
     3) Create "Resources Page", 4) Create a working newsletter data repo, and 5) Create a blog 
@@ -115,6 +116,7 @@ teams:
   themesongname: Sia - Unstoppable
   zoombackground: teams/codewarriors/codewarriorszoom.jpg
   targeturl: https://admiusa.org/
+  awards: SGX3 UX / UI Award
   projectgoals: >
     1) Research the best way to incorporate video to a webpage/website. 
     2) Develop a faq that answers basic questions about ADMI. 
@@ -213,6 +215,7 @@ teams:
   themesongname: GhostBusters Theme Song (Instrumental) 
   zoombackground: teams/bugbusters/bugbusterszoom.jpg
   targeturl: http://hackhpc.org
+  awards: Judges Choice Award 1st Place
   projectgoals: >
     1) Find target audience for new HackHPC website 
     2) Include informative content about a hackathon, how you register, past, current, and future events, who the staff are, what the rules are, and how you contact us. 

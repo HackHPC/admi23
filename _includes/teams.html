@@ -16,7 +16,7 @@
         
       
         <p style="margin-bottom: 2px;">{% if team.projectgoals %}
-          <strong>Project Goal(s):</strong> {{ team.projectgoals }}
+          {% if team.awards %} &#127942; <strong style="color:goldenrod;">{{ team.awards }} - </strong>{% endif %}<strong>Project Goal(s):</strong> {{ team.projectgoals }}
        
        {% endif %}
        
