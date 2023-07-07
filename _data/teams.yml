@@ -48,7 +48,7 @@ teams:
       iconcolor: red
     - name: Team GitHub Repo
       url: https://github.com/Lolli1486/agency-jekyll-theme
-      icon: fa-brands fa-github
+      icon: fab fa-github
       iconcolor: black
     - name: Final Presentation Slides
       url: teams/dataminers/TheDataMinersFinalPresentation.pdf
@@ -139,7 +139,7 @@ teams:
       iconcolor: red
     - name: Team GitHub Repo
       url: https://github.com/admi1234567/ADMI_CODEWARRIORS
-      icon: fa-brands fa-github
+      icon: fa fa-github
       iconcolor: black
     - name: Final Presentation Slides
       url: "teams/codewarriors/Team Presentation - CodeWarriors.pdf"
@@ -238,7 +238,7 @@ teams:
       iconcolor: red
     - name: Team GitHub Repo
       url: https://github.com/CierrahW/Hacking4HPC
-      icon: fa-brands fa-github
+      icon: fa fa-github
       iconcolor: black
     - name: Final Presentation Slides
       url: "teams/bugbusters/BugBustersFinalPresentation.pdf"

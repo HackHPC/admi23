@@ -111,7 +111,8 @@
         {% for link in team.links%}
         <li>
             {% if link.url contains '://' -%}
-                <a href="{{ link.url }}"> {{ link.name }} </a> 
+                <a href="{{ link.url }}"><i class="{{ link.icon }}" 
+                  style="color: {{ link.iconcolor }}"></i> {{ link.name }} </a> 
             {%- else -%}
                 <a href="{{ link.url | relative_url }}"><i class="{{ link.icon }}" 
                 style="color: {{ link.iconcolor }}"></i> {{ link.name }} </a> 
