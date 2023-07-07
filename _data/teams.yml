@@ -49,6 +49,14 @@ teams:
       url: https://github.com/Lolli1486/agency-jekyll-theme
       icon: fa-brands fa-github
       iconcolor: black
+    - name: Final Presentation Slides
+      url: teams/dataminers/TheDataMinersFinalPresentation.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team Poster
+      url: teams/dataminers/TheDataMiners_Poster.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
     - name: Team Portal Demo
       url: https://lolli1486.github.io/agency-jekyll-theme/
       icon: fa-solid fa-globe
@@ -127,6 +135,14 @@ teams:
       url: https://github.com/admi1234567/ADMI_CODEWARRIORS
       icon: fa-brands fa-github
       iconcolor: black
+    - name: Final Presentation Slides
+      url: "teams/codewarriors/Team Presentation - CodeWarriors.pdf"
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team Poster
+      url: "teams/codewarriors/CodeWarriors-HackHPC-Poster.pdf"
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
     - name: Team Portal Demo
       url: http://www.vartechservices.com/codewarriors/
       icon: fa-solid fa-globe
@@ -213,6 +229,14 @@ teams:
       url: https://github.com/CierrahW/Hacking4HPC
       icon: fa-brands fa-github
       iconcolor: black
+    - name: Final Presentation Slides
+      url: "teams/bugbusters/BugBustersFinalPresentation.pdf"
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Team Poster
+      url: "teams/bugbusters/BugBusters-poster.pdf"
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
     - name: Team Portal Demo
       url: https://cierrahw.github.io/Hacking4HPC/
       icon: fa-solid fa-globe

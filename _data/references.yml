@@ -44,6 +44,8 @@ references:
   url: https://www.w3schools.com/icons/fontawesome_icons_brand.asp
 - name: Introduction to Version Control
   url: https://swcarpentry.github.io/git-novice/
+- name: Google Bard
+  url: https://bard.google.com/
 
 codeplatforms:
 - name: "Google Colab"

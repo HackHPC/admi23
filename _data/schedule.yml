@@ -211,14 +211,20 @@ general_schedule:
           &nbsp;&nbsp;&nbsp;&nbsp; - Demo Site Screen Shots <br>
           &nbsp;&nbsp;&nbsp;&nbsp; - Future Work/Recomendations <br>
           &nbsp;&nbsp;&nbsp;&nbsp; - References <br>
-
+          <br>
+          <strong>Awards:</strong><br>
+          &nbsp;&nbsp;<i class="fa-solid fa-trophy" style="color: goldenrod;"></i><em>Judges Choice Award 2nd Place</em> - <strong><a href="https://hackhpc.github.io/admi23/teams.html#The%20Data%20Miners" style="color: goldenrod;">The Data Miners</a></strong><br>
+          &nbsp;&nbsp;<i class="fa-solid fa-trophy" style="color: goldenrod;"></i><em>Judges Choice Award 1st Place</em> - <strong><a href="https://hackhpc.github.io/admi23/teams.html#Bug%20Busters" style="color: goldenrod;">Bug Busters</a></strong><br>
+          &nbsp;&nbsp;<i class="fa-solid fa-trophy" style="color: goldenrod;"></i><em>SGX3 UX / UI Award </em> - <strong><a href="https://hackhpc.github.io/admi23/teams.html#CodeWarriors" style="color: goldenrod;">CodeWarriors</a></strong><br>
+        links:
+          - title: Slide Deck
+            icon: fa-regular fa-file-pdf
+            url: "assets/slides/Final_Presentations.pdf"
+          - title: YouTube Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/m9Rz01V_1lA"
           
-      #- name: Team Creation 
-        #type: Presentation
-        #links:
-        #  - title: Slide Deck
-        #    icon: fa-regular fa-file-pdf
-        #    url: "assets/slides/pre-event_training/GitHub-and-Github-Pages.pdf"
           
 
 
