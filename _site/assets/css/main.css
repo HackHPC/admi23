@@ -1645,7 +1645,7 @@ sponsorssidebar-v a.sponsortext {
   padding: 7px;
   border-radius: 8px;
   text-align: center;
-  background-color: lightgray;
+  background-color: lightsalmon;
   width: auto;
 }
 
@@ -1671,7 +1671,8 @@ sponsorssidebar-v a.sponsortext {
 }
 
 .teams-h-container a.teams-h {
-  color: slateblue;
+  #color: slateblue;
+  color: black;
 }
 
 .teams-h-container p.teams-h {
