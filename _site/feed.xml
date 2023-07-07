@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-07-06T19:18:02-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
-</subtitle><author><name>HackHPC</name></author><entry><title type="html">Final Presentations</title><link href="http://localhost:4000/admi23/session/2023/06/29/FinalPresentations.html" rel="alternate" type="text/html" title="Final Presentations" /><published>2023-06-29T00:00:00-05:00</published><updated>2023-06-29T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/29/FinalPresentations</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/29/FinalPresentations.html"><![CDATA[<h2 id="final-presentations">Final Presentations</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/admi23/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/admi23/" rel="alternate" type="text/html" /><updated>2023-07-06T21:04:24-05:00</updated><id>http://localhost:4000/admi23/feed.xml</id><title type="html">HackHPC@ADMI23</title><subtitle>This page will serve as the event site for the HackHPC@ADMI23  Hackathon held virtually June 26th - 29th, 2023.
+</subtitle><author><name>HackHPC</name></author><entry><title type="html">Presentations</title><link href="http://localhost:4000/admi23/session/2023/06/29/FinalPresentations.html" rel="alternate" type="text/html" title="Presentations" /><published>2023-06-29T00:00:00-05:00</published><updated>2023-06-29T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/29/FinalPresentations</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/29/FinalPresentations.html"><![CDATA[<h2 id="final-presentations">Final Presentations</h2>
 
 <p><strong>Awards:</strong><br />
             <i class="fa-solid fa-trophy" style="color: goldenrod;"></i><em>Judges Choice Award 2nd Place</em> - <strong><a href="https://hackhpc.github.io/admi23/teams.html#The%20Data%20Miners" style="color: goldenrod;">The Data Miners</a></strong><br />
@@ -8,7 +8,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9Rz01V_1lA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<p> </p>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Reference" /><summary type="html"><![CDATA[Final Presentations]]></summary></entry><entry><title type="html">Deliverables</title><link href="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html" rel="alternate" type="text/html" title="Deliverables" /><published>2023-06-28T00:00:00-05:00</published><updated>2023-06-28T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html"><![CDATA[<h2 id="team-deliverables">Team Deliverables:</h2>
+<p> </p>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Presentation" /><summary type="html"><![CDATA[Final Presentations]]></summary></entry><entry><title type="html">Deliverables</title><link href="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html" rel="alternate" type="text/html" title="Deliverables" /><published>2023-06-28T00:00:00-05:00</published><updated>2023-06-28T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/28/FinalPresentationDeliverables.html"><![CDATA[<h2 id="team-deliverables">Team Deliverables:</h2>
 <p>Final presentations will begin at 1:30pm EDT (12:30pm CDT).</p>
 
 <p><a href="/admi23/assets/slides/HackHPC-Poster-Templatepptx.pptx"><img src="/admi23/assets/slides/HackHPC-Poster-Templatepptx.jpg" style="width: 350px; float: right; border: 2px solid darkblue; margin: 10px;" /></a></p>
@@ -33,7 +33,17 @@
   </li>
 </ul>
 
-<p> </p>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Reference" /><summary type="html"><![CDATA[Team Deliverables: Final presentations will begin at 1:30pm EDT (12:30pm CDT).]]></summary></entry><entry><title type="html">UI/UX Design</title><link href="http://localhost:4000/admi23/session/2023/06/27/UIUX.html" rel="alternate" type="text/html" title="UI/UX Design" /><published>2023-06-27T00:00:00-05:00</published><updated>2023-06-27T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/27/UIUX</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/27/UIUX.html"><![CDATA[<p><img style="float:left; margin: 15px; border-radius: 8px; height: 300px;" src="/admi23/assets/images/ali/image.png" /></p>
+<p> </p>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Reference" /><summary type="html"><![CDATA[Team Deliverables: Final presentations will begin at 1:30pm EDT (12:30pm CDT).]]></summary></entry><entry><title type="html">Goals</title><link href="http://localhost:4000/admi23/session/2023/06/27/TeamGoals.html" rel="alternate" type="text/html" title="Goals" /><published>2023-06-27T00:00:00-05:00</published><updated>2023-06-27T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/27/TeamGoals</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/27/TeamGoals.html"><![CDATA[<h2 id="team-goals">Team Goals</h2>
+
+<p><a href="https://hackhpc.github.io/admi23/assets/slides/Team%20Goals.pdf">Slide Deck (PDF)</a>
+<br /><br /></p>
+
+<p><strong>Teams:</strong><br />
+            - <strong><a href="https://hackhpc.github.io/admi23/teams.html#The%20Data%20Miners" style="color: goldenrod;">The Data Miners</a></strong><br />
+            - <strong><a href="https://hackhpc.github.io/admi23/teams.html#Bug%20Busters" style="color: goldenrod;">Bug Busters</a></strong><br />
+            - <strong><a href="https://hackhpc.github.io/admi23/teams.html#CodeWarriors" style="color: goldenrod;">CodeWarriors</a></strong><br /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Z4VRvZJNgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Presentation" /><summary type="html"><![CDATA[Team Goals]]></summary></entry><entry><title type="html">UI/UX Design</title><link href="http://localhost:4000/admi23/session/2023/06/27/UIUX.html" rel="alternate" type="text/html" title="UI/UX Design" /><published>2023-06-27T00:00:00-05:00</published><updated>2023-06-27T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/27/UIUX</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/27/UIUX.html"><![CDATA[<p><img style="float:left; margin: 15px; border-radius: 8px; height: 300px;" src="/admi23/assets/images/ali/image.png" /></p>
 
 <h2 style="margin-top: 1px; padding-top: 1px;"> UI/UX Design </h2>
 
@@ -153,4 +163,18 @@ All attendees, sponsors, partners, volunteers and staff at our hackathon are req
         </td>
 
     </tr>
-</table>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Presentation" /><summary type="html"><![CDATA[ADMI (admiusa.org)]]></summary></entry></feed>
+</table>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Presentation" /><summary type="html"><![CDATA[ADMI (admiusa.org)]]></summary></entry><entry><title type="html">Introductions</title><link href="http://localhost:4000/admi23/session/2023/06/26/TeamIntroductions.html" rel="alternate" type="text/html" title="Introductions" /><published>2023-06-26T00:00:00-05:00</published><updated>2023-06-26T00:00:00-05:00</updated><id>http://localhost:4000/admi23/session/2023/06/26/TeamIntroductions</id><content type="html" xml:base="http://localhost:4000/admi23/session/2023/06/26/TeamIntroductions.html"><![CDATA[<h2 id="team-introductions">Team Introductions</h2>
+
+<p><img src="/admi23/assets/imgs/teamintro-withbackgrounds.png" style="float:left;" /></p>
+
+<p><a href="https://hackhpc.github.io/admi23/assets/slides/Team%20Introductions.pdf">Slide Deck (PDF)</a>
+<br /><br /></p>
+
+<p><strong>Teams:</strong><br />
+            - <strong><a href="https://hackhpc.github.io/admi23/teams.html#The%20Data%20Miners" style="color: goldenrod;">The Data Miners</a></strong><br />
+            - <strong><a href="https://hackhpc.github.io/admi23/teams.html#Bug%20Busters" style="color: goldenrod;">Bug Busters</a></strong><br />
+            - <strong><a href="https://hackhpc.github.io/admi23/teams.html#CodeWarriors" style="color: goldenrod;">CodeWarriors</a></strong><br /></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8bbOohYJumg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<p> </p>]]></content><author><name>HackHPC</name></author><category term="session" /><category term="Presentation" /><summary type="html"><![CDATA[Team Introductions]]></summary></entry></feed>

@@ -61,6 +61,10 @@ teams:
       url: https://lolli1486.github.io/agency-jekyll-theme/
       icon: fa-solid fa-globe
       iconcolor: slategrey
+    - name: Final Presentation Video
+      icon: "fab fa-youtube" #fa-regular fa-file-pdf
+      iconcolor: red
+      url: "https://www.youtube.com/watch?v=m9Rz01V_1lA&t=2075s"
   images:
     - name: Team Introduction
       url: "teams/dataminers/team_introduction.pdf"
@@ -147,6 +151,10 @@ teams:
       url: http://www.vartechservices.com/codewarriors/
       icon: fa-solid fa-globe
       iconcolor: slategrey
+    - name: Final Presentation Video
+      icon: "fab fa-youtube" #fa-regular fa-file-pdf
+      iconcolor: red
+      url: "https://www.youtube.com/watch?v=m9Rz01V_1lA&t=3194s"
   images:
     - name: Team Introduction
       url: "teams/codewarriors/team_introduction.pdf"
@@ -241,6 +249,10 @@ teams:
       url: https://cierrahw.github.io/Hacking4HPC/
       icon: fa-solid fa-globe
       iconcolor: slategrey
+    - name: Final Presentation Video
+      icon: "fab fa-youtube" #fa-regular fa-file-pdf
+      iconcolor: red
+      url: "https://www.youtube.com/watch?v=m9Rz01V_1lA&t=1058s"
   images:
     - name: Team Introduction
       url: "teams/bugbusters/team_introduction.pdf"

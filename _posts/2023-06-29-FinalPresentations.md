@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Final Presentations"
+title: "Presentations"
 categories: session
-tags: [Reference]
+tags: [Presentation]
 banner:
   image: "/assets/imgs/HackHPCatADMI23-ai-logo.jpeg"
   height: "25vh"
