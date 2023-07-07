@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presentations"
+title: "Final Presentations"
 categories: session
 tags: [Presentation]
 banner:

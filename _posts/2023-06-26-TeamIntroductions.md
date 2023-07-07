@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introductions"
+title: "Team Introductions"
 categories: session
 tags: [Presentation]
 banner:

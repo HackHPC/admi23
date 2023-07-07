@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Goals"
+title: "Team Goals"
 categories: session
 tags: [Presentation]
 banner:
