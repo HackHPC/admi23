@@ -1635,6 +1635,7 @@ sponsorssidebar-v a.sponsortext {
   background-color: darkgray;
   border-radius: 8px;
   border: 1px solid slategrey;
+  background-image: url("https://hackhpc.github.io/admi23/assets/imgs/HackHPCatADMI23-ai-logo-boardonly.jpeg");
 }
 
 .teams-h-container {
